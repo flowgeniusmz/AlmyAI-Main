@@ -77,7 +77,7 @@ def get_pageconfig_title_with_home_link(varPageNumber: int, varDiv: bool=True):
 
 
 def set_title_manual(varTitle, varSubtitle, varDiv: bool=True):
-    st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#4A90E2;">{varTitle} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
+    st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#7ab3ba;">{varTitle} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{varSubtitle}</span>""", unsafe_allow_html=True)
     if varDiv:
         st.divider()
         
@@ -221,7 +221,7 @@ def create_sidebar_nav(varPageNumber: int):
 
 
 def get_blue_header(varText: str):
-    st.markdown(f"""<span style="font-weight: bold; color:#4A90E2; font-size:1.3em;">{varText}</span>""", unsafe_allow_html=True)    
+    st.markdown(f"""<span style="font-weight: bold; color:#7ab3ba; font-size:1.3em;">{varText}</span>""", unsafe_allow_html=True)    
 
 def get_gray_header(varText: str):
     st.markdown(f"""<span style="font-weight: bold; color:#333333; font-size:1.3em;">{varText}</span>""", unsafe_allow_html=True)
@@ -268,7 +268,7 @@ def get_pageconfig_title_with_popmenu(varPageNumber: int, varDiv: bool=True):
         with headercols[0]:
             title = get_pageconfig_item(varPageNumber=varPageNumber, varPageConfigType="titles")
             subtitle = get_pageconfig_item(varPageNumber=varPageNumber, varPageConfigType="subtitles")
-            st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#4A90E2;">{title} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{subtitle}</span>""", unsafe_allow_html=True)
+            st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#7ab3ba;">{title} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{subtitle}</span>""", unsafe_allow_html=True)
         with headercols[1]:
             menu = popover_menu(varPageNumber=varPageNumber)
         if varDiv:
