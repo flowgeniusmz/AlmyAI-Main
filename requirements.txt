@@ -1,0 +1,8 @@
+streamlit
+openai
+stripe
+streamlit-extras
+requests
+pandas
+supabase
+tavily-python
