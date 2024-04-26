@@ -348,7 +348,7 @@ def container_styled2(varKey):
         css_styles="""
         {
             border: 2px solid rgba(0, 0, 0, 0.2); /* Changed border color to a subtle grey */
-            background-color: rgba(40, 94, 159, 0.75); /* Adjusted transparency for better visibility */
+            background-color: rgba(68, 44, 92, 0.75); /* Adjusted transparency for better visibility */
             border-radius: 0.5rem;
             padding: 1em; /* Added padding for better spacing */
             overflow: hidden; /* Keeps the content within the borders */
