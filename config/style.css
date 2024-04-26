@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400&display=swap');
+
+html, body, div, p, [class*="css"] {
+    font-family: 'Raleway', sans-serif; /* Using only Raleway */
+    font-size: 18px; /* Existing font size */
+    font-weight: 400; /* Font weight for Raleway */
+    color: rgb(51, 65, 85); /* Color adjusted to your specific RGB value */
+}
