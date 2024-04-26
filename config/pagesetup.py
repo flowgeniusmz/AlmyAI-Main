@@ -57,18 +57,18 @@ def get_pageconfig(varPageNumber: int):
 def get_pageconfig_title(varPageNumber: int, varDiv: bool=True):
     title = get_pageconfig_item(varPageNumber=varPageNumber, varPageConfigType="titles")
     subtitle = get_pageconfig_item(varPageNumber=varPageNumber, varPageConfigType="subtitles")
-    st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#4A90E2;">{title} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{subtitle}</span>""", unsafe_allow_html=True)
+    st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#7AB3BA;">{title} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{subtitle}</span>""", unsafe_allow_html=True)
     if varDiv:
         st.divider()
 
 
 def get_pageconfig_title_with_home_link(varPageNumber: int, varDiv: bool=True):
     
-    cols = st.columns([1, 10,4,2,1])
+    cols = st.columns([1, 10,4,2,1]) ##7ab3ba ##4A90E2
     with cols[1]:
         title = get_pageconfig_item(varPageNumber=varPageNumber, varPageConfigType="titles")
         subtitle = get_pageconfig_item(varPageNumber=varPageNumber, varPageConfigType="subtitles")
-        st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color:#4A90E2;">{title} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{subtitle}</span>""", unsafe_allow_html=True)
+        st.markdown(f"""<span style="font-weight: bold; font-size: 2em; color: #7ab3ba;">{title} </span> <span style="font-weight: bold; color:#333333; font-size:1.3em;">{subtitle}</span>""", unsafe_allow_html=True)
     with cols[3]:
         if  varPageNumber != 0:
             st.page_link(page="pages/1_🏠_Home.py", label="Home 🏠")
