@@ -1,10 +1,13 @@
 [theme]
 base = "light"
-primaryColor = "#0096D7"          
+#primaryColor = "#0096D7"          
 secondaryBackgroundColor = "#00B084"  
-textColor = "#000000"            
+#textColor = "#000000"            
 backgroundColor = "#ffffff"      
 #errorColor = "#FF6B6B"           
+primaryColor="#7ab3ba"
+secondaryBackgroundColor="#fbbb98"
+textColor="#442c5c"
 
 [client]
 showSidebarNavigation = false

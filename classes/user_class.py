@@ -43,8 +43,8 @@ class User():
     def user_auth_callback(self):
         Client = create_client(supabase_key=st.secrets.supabase.api_key, supabase_url=st.secrets.supabase.url)
         users_table = st.secrets.supabase.table_users
-        username_col = st.secrets.supabase.username_col
-        credential_col = st.secrets.supabase.password_col
+        username_col = st.secrets.supabase.column_username
+        credential_col = st.secrets.supabase.column_password
         select_string = f"{username_col}, {credential_col}" 
         data, _ = (Client.table(table_name=users_table).select(select_string).eq(column=username_col, value=self.username).eq(column=credential_col, value=self.credential).execute())
         lengthdata = len(data[-1])
