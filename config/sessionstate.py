@@ -19,5 +19,19 @@ def initialize_sessionstate():
         st.session_state.run2message = st.secrets.messageconfig.run1_asst
         st.session_state.run3message = st.secrets.messageconfig.run1_asst
         st.session_state.run4message = st.secrets.messageconfig.run1_asst
+    if "runs_initialized" not in st.session_state:
+        st.session_state.run1_complete = False
+        st.session_state.run2_complete = False
+        st.session_state.run3_complete = False
+        st.session_state.run4_complete = False
+        st.session_state.run1id = None
+        st.session_state.run2id = None
+        st.session_state.run3id = None
+        st.session_state.run4id = None
+        st.session_state.run1status = None
+        st.session_state.run2status = None
+        st.session_state.run3status = None
+        st.session_state.run4status = None 
+        st.session_state.runs_initialized = False
     if "initialized" not in st.session_state:
         st.session_state.initialized = True
