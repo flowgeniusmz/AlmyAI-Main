@@ -1,451 +1,221 @@
-﻿username,password,salesforce_id,first_name,last_name,full_name,email,subsidiary,is_active
-michael.fedunyk@almalasers.com,AlmaPC2004!,0051Y000009I07QQAS,Michael,Fedunyk,Michael Fedunyk,michael.fedunyk@almalasers.com,"Alma Lasers , Inc.",FALSE
-jason.reszitnyk@almalasers.com,AlmaEB2880!,0051Y000009IR6jQAG,Jason,Reszitnyk,Jason Reszitnyk,jason.reszitnyk@almalasers.com,"Alma Lasers , Inc.",TRUE
-peter.strickler@almalasers.com,AlmaBS8672!,0051Y000009IkY8QAK,Peter,Strickler,Peter Strickler,peter.strickler@almalasers.com,"Alma Lasers , Inc.",FALSE
-dani.grinter@almalasers.com,AlmaHB6521!,0051Y000009K50EQAS,Dani,Grinter,Dani Grinter,dani.grinter@almalasers.com,"Alma Lasers , Inc.",TRUE
-sugas.sivanesan@almalasers.com,AlmaFX2930!,0051Y000009KDdEQAW,Sugas,Sivanesan,Sugas Sivanesan,sugas.sivanesan@almalasers.com,"Alma Lasers , Inc.",FALSE
-caitlin.farrell@almalasers.com,AlmaCO6755!,0051Y000009KQIEQA4,Caitlin,Farrell,Caitlin Farrell,caitlin.farrell@almalasers.com,"Alma Lasers , Inc.",TRUE
-kathy.hu@almalasers.com,AlmaBV7793!,0051Y000009KSTiQAO,Kathy,Hu,Kathy Hu,kathy.hu@almalasers.com,"Alma Lasers , Inc.",TRUE
-scott.karten@almalasers.com,AlmaHD9125!,0051Y000009LEb1QAG,Scott,Karten,Scott Karten,scott.karten@almalasers.com,"Alma Lasers , Inc.",TRUE
-ryan.huling@almalasers.com,AlmaES2141!,0051Y000009LHOFQA4,Ryan,Huling,Ryan Huling,ryan.huling@almalasers.com,"Alma Lasers , Inc.",FALSE
-drew.lasky@almalasers.com,AlmaWJ3927!,0051Y000009LbqOQAS,Drew,Lasky,Drew Lasky,drew.lasky@almalasers.com,"Alma Lasers , Inc.",TRUE
-colin.ford@almalasers.com,AlmaTZ6710!,0051Y000009LeQ4QAK,Colin,Ford,Colin Ford,colin.ford@almalasers.com,"Alma Lasers , Inc.",FALSE
-dev_alma@konvertapp.com,AlmaWI4694!,0051Y000009LeQdQAK,Concentrek Dev,Team,Concentrek Dev Team,dev@konvertapp.com,"Alma Lasers , Inc.",TRUE
-keith.adams@almalasers.com,AlmaZE5349!,0051Y000009VAHQQA4,Keith,Adams,Keith Adams,keith.adams@almalasers.com,"Alma Lasers , Inc.",TRUE
-spencer.detter@almalasers.com,AlmaJY9560!,0051Y000009VAHVQA4,Spencer,Detter,Spencer Detter,spencer.detter@almalasers.com,"Alma Lasers , Inc.",TRUE
-jason.grisnik@almalasers.com,AlmaEF4208!,0051Y000009VEJaQAO,Jason,Grisnik,Jason Grisnik,jason.grisnik@almalasers.com,"Alma Lasers , Inc.",TRUE
-lewis.vincent@almalasers.com,AlmaOS1227!,0051Y000009VHkAQAW,Lewis,Vincent,Lewis Vincent,lewis.vincent@almalasers.com,"Alma Lasers , Inc.",TRUE
-josh.dean@almalasers.com,AlmaEZ9974!,0051Y000009VIBuQAO,Josh,Dean,Josh Dean,josh.dean@almalasers.com,"Alma Lasers , Inc.",FALSE
-nick.quacquarini@almalasers.com,AlmaUM2031!,0051Y000009VICYQA4,Nick,Quacquarini,Nick Quacquarini,nick.quacquarini@almalasers.com,"Alma Lasers , Inc.",TRUE
-mark.tiede@almalasers.com,AlmaOJ5826!,0051Y000009VIf1QAG,Mark,Tiede,Mark Tiede,mark.tiede@almalasers.com,"Alma Lasers , Inc.",TRUE
-nick.brown@almalasers.com,AlmaJH2810!,0051Y000009VIf6QAG,Nick,Brown,Nick Brown,nick.brown@almalasers.com,"Alma Lasers , Inc.",TRUE
-caitlin.mcgraw@almalasers.com,AlmaAX6889!,0051Y000009VMfyQAG,Caitlin,McGraw,Caitlin McGraw,caitlin.mcgraw@almalasers.com,"Alma Lasers , Inc.",TRUE
-samantha.hooten@almalasers.com,AlmaII6803!,0051Y000009VMg3QAG,Samantha,Hooten,Samantha Hooten,samantha.hooten@almalasers.com,"Alma Lasers , Inc.",FALSE
-richard.eckel@almalasers.com,AlmaAR8355!,0051Y000009VMgmQAG,Richard,Eckel,Richard Eckel,richard.eckel@almalasers.com,"Alma Lasers , Inc.",TRUE
-tony.vittal@almalasers.com,AlmaCD9155!,0051Y000009VMtMQAW,Tony,Vittal,Tony Vittal,tony.vittal@almalasers.com,"Alma Lasers , Inc.",TRUE
-brad.harris@almalasers.com,AlmaWL7365!,0051Y000009VMtWQAW,Brad,Harris,Brad Harris,brad.harris@almalasers.com,"Alma Lasers , Inc.",TRUE
-thanh.tan@almalasers.com,AlmaSH9630!,0051Y000009bPBxQAM,Thanh,Tan,Thanh Tan,thanh.tan@almalasers.com,"Alma Lasers , Inc.",TRUE
-clint.jones@almalasers.com,AlmaBG3941!,0051Y000009bPC7QAM,Clint,Jones,Clint Jones,clint.jones@almalasers.com,"Alma Lasers , Inc.",TRUE
-nick.jackson@almalasers.com,AlmaCI2878!,0051Y000009bZUQQA2,Nick,Jackson,Nick Jackson,nick.jackson@almalasers.com,"Alma Lasers , Inc.",TRUE
-zachary.kreegar@almalasers.com,AlmaWV5415!,0051Y000009bcWAQAY,Zachary,Kreegar,Zachary Kreegar,zachary.kreegar@almalasers.com,"Alma Lasers , Inc.",FALSE
-jesse.hiatt@almalasers.com,AlmaLE6751!,0051Y000009beRvQAI,Jesse,Hiatt,Jesse Hiatt,jesse.hiatt@almalasers.com,"Alma Lasers , Inc.",TRUE
-cory.chase@almalasers.com,AlmaDO9453!,0051Y000009hymNQAQ,Cory,Chase,Cory Chase,cory.chase@almalasers.com,"Alma Lasers , Inc.",TRUE
-tim.flood@almalasers.com,AlmaEX7131!,0051Y000009i2PIQAY,Tim,Flood,Tim Flood,tim.flood@almalasers.com,"Alma Lasers , Inc.",TRUE
-tyler.dean@almalasers.com,AlmaPD6459!,0051Y000009i2QfQAI,Tyler,Dean,Tyler Dean,tyler.dean@almalasers.com,"Alma Lasers , Inc.",FALSE
-dean.westin@almalasers.com,AlmaNT4065!,0051Y000009mTwCQAU,Dean,Westin,Dean Westin,dean.westin@almalasers.com,"Alma Lasers , Inc.",FALSE
-tim.gaumer@almalasers.com,AlmaKP8533!,0051Y000009s1JiQAI,Tim,Gaumer,Tim Gaumer,tim.gaumer@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.mckinney@almalasers.com,AlmaQA7668!,0051Y000009ucBkQAI,Michael,McKinney,Michael McKinney,michael.mckinney@almalasers.com,"Alma Lasers , Inc.",FALSE
-trevor.randolph@almalasers.com,AlmaLB7156!,0051Y000009ucJPQAY,Trevor,Randolph,Trevor Randolph,trevor.randolph@almalasers.com,"Alma Lasers , Inc.",TRUE
-kevin.notte@almalasers.com,AlmaEN2833!,0051Y000009vzOyQAI,Kevin,Notte,Kevin Notte,kevin.notte@almalasers.com,"Alma Lasers , Inc.",TRUE
-terry.baldree@almalasers.com,AlmaBH4516!,0051Y00000AB0gjQAD,Terry,Baldree,Terry Baldree,terry.baldree@almalasers.com,"Alma Lasers , Inc.",TRUE
-sales_mass_email@almalasers.force.com,AlmaJX5166!,0051Y00000AB5P4QAL,Sales Mass Email,Site Guest User,Sales Mass Email Site Guest User,sara.rizvi@almalasers.com,"Alma Lasers , Inc.",FALSE
-ashley.williams@almalasers.com,AlmaKA3090!,0051Y00000AB5ShQAL,Ashley,Williams,Ashley Williams,ashley.williams@almalasers.com,"Alma Lasers , Inc.",TRUE
-erin.henry@almalasers.com,AlmaCP3341!,0051Y00000Agcy4QAB,Erin,Henry,Erin Henry,erin.henry@almalasers.com,"Alma Lasers , Inc.",TRUE
-giovanni.distefano@almalasers.com,AlmaNB4449!,0051Y00000Agcy9QAB,Giovanni,DiStefano,Giovanni DiStefano,giovanni.distefano@almalasers.com,"Alma Lasers , Inc.",TRUE
-noel.newcom@almalasers.com,AlmaKY9466!,0051Y00000AghZxQAJ,Noel,Newcom,Noel Newcom,noel.newcom@almalasers.com,"Alma Lasers , Inc.",FALSE
-aaron.moll@almalasers.com,AlmaFD3752!,0051Y00000AgowFQAR,Aaron,Moll,Aaron Moll,aaron.moll@almalasers.com,"Alma Lasers , Inc.",FALSE
-david.forrestal@almalasers.com,AlmaPY7447!,0051Y00000AqNfRQAV,David,Forrestal,David Forrestal,david.forrestal@almalasers.com,"Alma Lasers , Inc.",TRUE
-jay.wehrenberg@almalasers.com,AlmaJP9235!,0051Y00000AqVhGQAV,Jay,Wehrenberg,Jay Wehrenberg,jay.wehrenberg@almalasers.com,"Alma Lasers , Inc.",TRUE
-wyatt.whitley@almalasers.com,AlmaSE3040!,0051Y00000AswGzQAJ,Wyatt,Nizolek,Wyatt Nizolek,wyatt.whitley@almalasers.com,"Alma Lasers , Inc.",FALSE
-brenda.harper@almalasers.com,AlmaTG4238!,0051Y00000At2yEQAR,Brenda,Harper,Brenda Harper,brenda.harper@almalasers.com,"Alma Lasers , Inc.",FALSE
-ben.hooten@almalasers.com,AlmaEV3389!,0051Y00000B3lp7QAB,Ben,Hooten,Ben Hooten,ben.hooten@almalasers.com,"Alma Lasers , Inc.",FALSE
-eddie.johnson@almalasers.com,AlmaLB7330!,0051Y00000B3lpMQAR,Eddie,Johnson,Eddie Johnson,eddie.johnson@almalasers.com,"Alma Lasers , Inc.",FALSE
-ryan.gertz@almalasers.com,AlmaDH8440!,0051Y00000B3n3AQAR,Ryan,Gertz,Ryan Gertz,ryan.gertz@almalasers.com,"Alma Lasers , Inc.",FALSE
-deandre.lockett@almalasers.com,AlmaAW3946!,0051Y00000B3n3FQAR,Deandre,Lockett,Deandre Lockett,deandre.lockett@almalasers.com,"Alma Lasers , Inc.",FALSE
-michael.craven@almalasers.com,AlmaRM1106!,0051Y00000B3n3KQAR,Michael,Craven,Michael Craven,michael.craven@almalasers.com,"Alma Lasers , Inc.",FALSE
-scott.hill@almalasers.com,AlmaVT1073!,0051Y00000B3pemQAB,Scott,Hill,Scott Hill,scott.hill@almalasers.com,"Alma Lasers , Inc.",TRUE
-stuart.sokoloff@almalasers.com,AlmaEI4943!,0051Y00000B3slgQAB,Stuart,Sokoloff,Stuart Sokoloff,stuart.sokoloff@almalasers.com,"Alma Lasers , Inc.",FALSE
-eric.merz@almalasers.com,AlmaZW6074!,0051Y00000B3slvQAB,Eric,Merz,Eric Merz,eric.merz@almalasers.com,"Alma Lasers , Inc.",FALSE
-rebecca.hammermeister@almalasers.com,AlmaJX6089!,0051Y00000B4AEBQA3,Rebecca,Hammermeister,Rebecca Hammermeister,rebecca.hammermeister@almalasers.com,"Alma Lasers , Inc.",TRUE
-support@metzgers.com,AlmaEF2071!,0051Y00000B4X15QAF,eStore,Order,eStore Order,support@metzgers.com,"Alma Lasers , Inc.",TRUE
-john.elliott@almalasers.com@almalasers.com,AlmaHE3394!,0051Y00000B5GT9QAN,John,Elliott,John Elliott,john.elliott@almalasers.com,"Alma Lasers , Inc.",TRUE
-andrew.hack@almalasers.com,AlmaRI1106!,0051Y00000B5GnsQAF,Andrew,Hack,Andrew Hack,andrew.hack@almalasers.com,"Alma Lasers , Inc.",TRUE
-kristina.clark@almalasers.com,AlmaZB3684!,0051Y00000B5UOwQAN,Kristina,Clark,Kristina Clark,kristina.clark@almalasers.com,"Alma Lasers , Inc.",TRUE
-tori.allen@almalasers.com,AlmaWD5099!,0051Y00000B5bNZQAZ,Tori,Allen,Tori Allen,tori.allen@almalasers.com,"Alma Lasers , Inc.",FALSE
-gracie.smith@almalasers.com,AlmaFD4748!,0051Y00000B5bQaQAJ,Gracie,Smith,Gracie Smith,gracie.smith@almalasers.com,"Alma Lasers , Inc.",FALSE
-jeff.tisue@almalasers.com,AlmaLA2919!,0051Y00000B6NCMQA3,Jeffrey,Tisue,Jeffrey Tisue,jeff.tisue@almalasers.com,"Alma Lasers , Inc.",FALSE
-mary.polus@almalasers.com,AlmaIE7931!,0051Y00000B6dbSQAR,Mary,Polus,Mary Polus,mary.polus@almalasers.com,"Alma Lasers , Inc.",TRUE
-bob.iero@almalasers.com,AlmaRX7773!,0051Y00000BIJ02QAH,Bob,Iero,Bob Iero,bob.iero@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.iero@almalasers.com,AlmaQQ8441!,0051Y00000BIJ4xQAH,Michael,Iero,Michael Iero,michael.iero@almalasers.com,"Alma Lasers , Inc.",TRUE
-sharyn.qureshi@almalasers.com,AlmaBJ5325!,0051Y00000BIkBqQAL,Sharyn,Qureshi,Sharyn Qureshi,sharyn.qureshi@almalasers.com,"Alma Lasers , Inc.",TRUE
-zev.crawley@almalasers.com,AlmaFG4396!,0051Y00000BIlYWQA1,Zev,Crawley,Zev Crawley,zev.crawley@almalasers.com,"Alma Lasers , Inc.",FALSE
-tari.allen@almalasers.com,AlmaGY2554!,0051Y00000BPol1QAD,Tari,Allen,Tari Allen,tari.allen@almalasers.com,"Alma Lasers , Inc.",FALSE
-adam.marshall@almalasers.com,AlmaDL7198!,0051Y00000BbfmZQAR,Adam,Marshall,Adam Marshall,adam.marshall@almalasers.com,"Alma Lasers , Inc.",FALSE
-louise.godoy@almalasers.com,AlmaHW8463!,0051Y00000BdYlEQAV,Louise,Godoy,Louise Godoy,louise.godoy@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.lyon@almalasers.com,AlmaHZ1655!,0055d00000AuDxXAAV,Michael,Lyon,Michael Lyon,michael.lyon@almalasers.com,"Alma Lasers , Inc.",FALSE
-taylor.flowers@almalasers.com,AlmaEU8589!,0055d00000BqHNZAA3,Taylor,Flowers,Taylor Flowers,taylor.flowers@almalasers.com,"Alma Lasers , Inc.",FALSE
-mike.mccurry@almalasers.com,AlmaSJ9384!,0055d00000BqHNjAAN,Mike,McCurry,Mike McCurry,mike.mccurry@almalasers.com,"Alma Lasers , Inc.",TRUE
-avery.maestrello@almalasers.com,AlmaFZ8963!,0055d00000BqHNoAAN,Avery,Maestrello,Avery Maestrello,avery.maestrello@almalasers.com,"Alma Lasers , Inc.",FALSE
-andres.arce@almalasers.com,AlmaXP2310!,0055d00000BqLkSAAV,Andres,Arce,Andres Arce,andres.arce@almalasers.com,"Alma Lasers , Inc.",TRUE
-workato@deloitte.co.il,AlmaVH7481!,0055d00000BqMC7AAN,Workato,Api,Workato Api,integration@deloitte.co.il,"Alma Lasers , Inc.",TRUE
-american@deloitte.co.il.prod,AlmaTA2065!,0055d00000BqQRfAAN,American,Test,American Test,akalangel@deloitte.co.il,"Alma Lasers , Inc.",FALSE
-o365admin@almalaseres.onmicrosoft.com,AlmaLJ6549!,0055d00000BqRLEAA3,,Outlook,Outlook,o365admin@almalaseres.onmicrosoft.com,"Alma Lasers , Inc.",TRUE
-chris.patz@almalasers.com,AlmaBS9141!,0055d00000BqUbPAAV,Chris,Patz,Chris Patz,chris.patz@almalasers.com,"Alma Lasers , Inc.",TRUE
-brendan.thompson@almalasers.com,AlmaWG2806!,0055d00000BqUbUAAV,Brendan,Thompson,Brendan Thompson,brendan.thompson@almalasers.com,"Alma Lasers , Inc.",FALSE
-laura.miltz@almalasers.com,AlmaPM3147!,0055d00000BqX5vAAF,Laura,Miltz,Laura Miltz,laura.miltz@almalasers.com,"Alma Lasers , Inc.",TRUE
-meirav.haviv@almalasers.co.il,AlmaCM4919!,0055d00000BqhrLAAR,Meirav,Haviv,Meirav Haviv,meirav.haviv@almalasers.co.il,"Alma Lasers , Inc.",FALSE
-alan.motz@almalasers.com,AlmaYH4945!,0055d00000Bqlp4AAB,Alan,Motz,Alan Motz,alan.motz@almalasers.com,"Alma Lasers , Inc.",TRUE
-yury.sukhavitski@almalasers.com,AlmaXW5275!,0055d00000Bqlp9AAB,Yury,Sukhavitski,Yury Sukhavitski,yury.sukhavitski@almalasers.com,"Alma Lasers , Inc.",TRUE
-luis.malpique@almalasers.com,AlmaNJ7025!,0055d00000BqlpEAAR,Luis,Malpique,Luis Malpique,luis.malpique@almalasers.com,"Alma Lasers , Inc.",TRUE
-jedediah.bredsguard@almalasers.com,AlmaGW6240!,0055d00000BqnHsAAJ,Jedediah,Bredsguard,Jedediah Bredsguard,jedediah.bredsguard@almalasers.com,"Alma Lasers , Inc.",TRUE
-esther.szabo@almalasers.com,AlmaOI3320!,0055d00000BqsPmAAJ,Esther,Szabo,Esther Szabo,esther.szabo@almalasers.com,"Alma Lasers , Inc.",TRUE
-chatbot_inc@almalasers.co.il,AlmaIW3869!,0055d00000BqvIPAAZ,Web,Chat Bot Inc,Web Chat Bot Inc,amir.kratz@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-larry.spiewak@almalasers.com,AlmaAU7060!,0055d00000BqxdyAAB,Larry,Spiewak,Larry Spiewak,larry.spiewak@almalasers.com,"Alma Lasers , Inc.",TRUE
-ronald.roth@almalasers.com,AlmaCS4861!,0055d00000Bqxe3AAB,Ronald,Roth,Ronald Roth,ronald.roth@almalasers.com,"Alma Lasers , Inc.",TRUE
-steve.bouton@almalasers.com,AlmaVW8099!,0055d00000Bqxe8AAB,Steve,Bouton,Steve Bouton,steve.bouton@almalasers.com,"Alma Lasers , Inc.",TRUE
-henry.rosenberg@almalasers.com,AlmaVC4943!,0055d00000BqxeDAAR,Henry,Rosenberg,Henry Rosenberg,henry.rosenberg@almalasers.com,"Alma Lasers , Inc.",TRUE
-calvin.lee@almalasers.com,AlmaJL9687!,0055d00000BugwVAAR,Calvin,Lee,Calvin Lee,calvin.lee@almalasers.com,"Alma Lasers , Inc.",TRUE
-savannah.padron@almalasers.com,AlmaAX7409!,0055d00000BugwaAAB,Savannah,Padron,Savannah Padron,savannah.padron@almalasers.com,"Alma Lasers , Inc.",TRUE
-chad.sprinkle@almalasers.com,AlmaUP7573!,0055d00000BujUjAAJ,Chad,Sprinkle,Chad Sprinkle,chad.sprinkle@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashleybaily843@gmail.com,AlmaHF5731!,0055d00000BujbLAAR,Ashley,Bailey,Ashley Bailey,ashleybaily843@gmail.com,"Alma Lasers , Inc.",FALSE
-bunny.parker@almalasers.com,AlmaUN5301!,0055d00000BupBOAAZ,Bunny,Parker,Bunny Parker,bunny.parker@almalasers.com,"Alma Lasers , Inc.",TRUE
-anthony.quintiliani@almalasers.com,AlmaTR8997!,0055d00000BupCgAAJ,Anthony,Quintiliani,Anthony Quintiliani,anthony.quintiliani@almalasers.com,"Alma Lasers , Inc.",FALSE
-lydia.page@almalasers.com,AlmaZJ5989!,0055d00000BupLiAAJ,Lydia,Page,Lydia Page,lydia.page@almalasers.com,"Alma Lasers , Inc.",TRUE
-andrew.mowry@almalasers.com,AlmaCY6447!,0055d00000BurQGAAZ,Andrew,Mowry,Andrew Mowry,andrew.mowry@almalasers.com,"Alma Lasers , Inc.",FALSE
-jeana.nasca@almalasers.com,AlmaNS7555!,0055d00000BuvPlAAJ,Jeana,Nasca,Jeana Nasca,jeana.nasca@almalasers.com,"Alma Lasers , Inc.",TRUE
-megan.murphy@almalasers.com,AlmaNO9330!,0055d00000Bv5IuAAJ,Megan,Murphy,Megan Murphy,megan.murphy@almalasers.com,"Alma Lasers , Inc.",TRUE
-matt.kerkhoff@almalasers.com,AlmaNT5531!,0055d00000Bv5U2AAJ,Matt,Kerkhoff,Matt Kerkhoff,matt.kerkhoff@almalasers.com,"Alma Lasers , Inc.",FALSE
-chase.tolusic@almalasers.com,AlmaFY2337!,0055d00000Bv69tAAB,Chase,Tolusic,Chase Tolusic,chase.tolusic@almalasers.com,"Alma Lasers , Inc.",TRUE
-caitlin.clementson@almalasers.com,AlmaAN2700!,0055d00000Bv95pAAB,Caitlin,Clementson,Caitlin Clementson,caitlin.clementson@almalasers.com,"Alma Lasers , Inc.",TRUE
-lshif@deloitte.co.il.almaprod,AlmaTP1527!,0055d00000Bx6o0AAB,Lidor,Shif,Lidor Shif,lshif@deloitte.co.il,"Alma Lasers , Inc.",FALSE
-dan.arbuckle@almalasers.com,AlmaZC3459!,0055d00000Bx7NZAAZ,Dan,Arbuckle,Dan Arbuckle,dan.arbuckle@almalasers.com,"Alma Lasers , Inc.",TRUE
-breanna.feldpausch@almalasers.com,AlmaVW4118!,0055d00000Bx8b3AAB,Breanna,Feldpausch,Breanna Feldpausch,breanna.feldpausch@almalasers.com,"Alma Lasers , Inc.",FALSE
-harris.rabinowitz@almalasers.com,AlmaYS3929!,0055d00000Bx9afAAB,Harris,Rabinowitz,Harris Rabinowitz,harris.rabinowitz@almalasers.com,"Alma Lasers , Inc.",TRUE
-lisa.nguyen@almalasers.com,AlmaYY3731!,0055d00000Bx9cgAAB,Lisa,Nguyen,Lisa Nguyen,lisa.nguyen@almalasers.com,"Alma Lasers , Inc.",TRUE
-bruce.knoch@almalasers.com,AlmaFU1402!,0055d00000BxCZaAAN,Bruce,Knoch,Bruce Knoch,bruce.knoch@almalasers.com,"Alma Lasers , Inc.",FALSE
-joey.garrard@almalasers.com,AlmaCE8857!,0055d00000BxCZkAAN,Joey,Garrard,Joey Garrard,joey.garrard@almalasers.com,"Alma Lasers , Inc.",FALSE
-brittany.lane@almalasers.com,AlmaYD4221!,0055d00000BxDYOAA3,Brittany,Lane,Brittany Lane,brittany.lane@almalasers.com,"Alma Lasers , Inc.",TRUE
-sam.girgenti@almalasers.com,AlmaJV4937!,0055d00000BxDz5AAF,Sam,Girgenti,Sam Girgenti,sam.girgenti@almalasers.com,"Alma Lasers , Inc.",TRUE
-dorit.aizenberg@almalasers.com,AlmaEC8207!,0055d00000BxEpBAAV,Dorit,Aizenberg,Dorit Aizenberg,dorit.aizenberg@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-sarah.strange@almalasers.com,AlmaUD5270!,0055d00000BxF62AAF,Sarah,Strange,Sarah Strange,sarah.strange@almalasers.com,"Alma Lasers , Inc.",FALSE
-leslee.boyer@almalasers.com,AlmaNB9097!,0055d00000BxFHFAA3,LesLee,Boyer,LesLee Boyer,leslee.boyer@almalasers.com,"Alma Lasers , Inc.",TRUE
-kendall.lewis@almalasers.com,AlmaSM8086!,0055d00000BxFveAAF,Kendall,Zuber,Kendall Zuber,kendall.lewis@almalasers.com,"Alma Lasers , Inc.",TRUE
-jennyfer.aleman@almalasers.com,AlmaEA7976!,0055d00000BxGFFAA3,Jennyfer,Aleman,Jennyfer Aleman,jennyfer.aleman@almalasers.com,"Alma Lasers , Inc.",TRUE
-yaelimarkovitz+10@gmail.com.alma,AlmaGV4988!,0055d00000CDk60AAD,test,selfreg,test selfreg,yaelimarkovitz+10@gmail.com,"Alma Lasers , Inc.",TRUE
-dorit.aizen@gmail.com.commercedv,AlmaOS6438!,0055d00000CDk8uAAD,Dorit,Aizenberg portal,Dorit Aizenberg portal,dorit.aizen@gmail.com,"Alma Lasers , Inc.",TRUE
-_mayaevenhaim@gmail.com,AlmaBM8677!,0055d00000CDlNRAA1,nikol,lev,nikol lev,mayaevenhaim@gmail.com,"Alma Lasers , Inc.",FALSE
-nikollev3@gmail.com,AlmaFA6255!,0055d00000CDlPcAAL,Nikol Customer Portal,Lev,Nikol Customer Portal Lev,nikollev3@gmail.com,"Alma Lasers , Inc.",TRUE
-shellygav@gmail.com.commercedv,AlmaJT9025!,0055d00000CDlafAAD,shelly,Gavish,shelly Gavish,shellygav1@gmail.com,"Alma Lasers , Inc.",FALSE
-jayne.olson@almalasers.com,AlmaMI5666!,0055d00000CDmYzAAL,Jayne,Olson,Jayne Olson,jayne.olson@almalasers.com,"Alma Lasers , Inc.",TRUE
-savannah.simpson@almalasers.com,AlmaST4852!,0055d00000CDnRfAAL,Savannah,Simpson,Savannah Simpson,savannah.simpson@almalasers.com,"Alma Lasers , Inc.",TRUE
-kevin.mendelson@almalasers.com,AlmaSO8225!,0055d00000CDndMAAT,Kevin,Mendelson,Kevin Mendelson,kevin.mendelson@almalasers.com,"Alma Lasers , Inc.",TRUE
-nikol.lev+1@almalasers.co.il.alma,AlmaUZ3950!,0055d00000CDpCcAAL,nikol,lev,nikol lev,nikol.lev+1@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-nikol.lev+3@almalasers.com.commercedv,AlmaDY8240!,0055d00000CDpDQAA1,Nikol,lev,Nikol lev,nikol.lev+3@almalasers.com,"Alma Lasers , Inc.",TRUE
-dorit.aizenberg+1@almalasers.co.il.alma,AlmaSG8287!,0055d00000CDpDVAA1,Dorit,Aizen,Dorit Aizen,dorit.aizenberg+1@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-maya.evenhaim+1@almalasers.co.il.alma,AlmaVZ1067!,0055d00000CDpDaAAL,Maya,EvenHaim,Maya EvenHaim,maya.evenhaim+1@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-adrian.thompson@almalasers.com,AlmaUJ2553!,0055d00000CGCs6AAH,Adrian,Thompson,Adrian Thompson,adrian.thompson@almalasers.com,"Alma Lasers , Inc.",TRUE
-olf@almalasers.com,AlmaLV8858!,0055d00000CHxNlAAL,Brian,McMahon,Brian McMahon,brian.mcmahon@almalasers.com,"Alma Lasers , Inc.",FALSE
-jennie.mueller@almalasers.com,AlmaSD1435!,0055d00000CHybAAAT,Jennie,Mueller,Jennie Mueller,jennie.mueller@almalasers.com,"Alma Lasers , Inc.",FALSE
-eimear.boyko@almalasers.com,AlmaXE3470!,0055d00000CHz0KAAT,Eimear,Boyko,Eimear Boyko,eimear.boyko@almalasers.com,"Alma Lasers , Inc.",FALSE
-shelby.oliver@almalasers.com,AlmaVK9100!,0055d00000CIju4AAD,Shelby,Oliver,Shelby Oliver,shelby.oliver@almalasers.com,"Alma Lasers , Inc.",FALSE
-macee.kelley@almalasers.com,AlmaIR5333!,0055d00000CJglQAAT,Macee,Kelley,Macee Kelley,macee.kelley@almalasers.com,"Alma Lasers , Inc.",TRUE
-garrett.perdue@almalasers.com,AlmaJQ6889!,0055d00000CRGDOAA5,Garrett,Perdue,Garrett Perdue,garrett.perdue@almalasers.com,"Alma Lasers , Inc.",TRUE
-kristin.goldfine@almalasers.com,AlmaFA3810!,0055d00000CXPXyAAP,Kristin,Goldfine,Kristin Goldfine,kristin.goldfine@almalasers.com,"Alma Lasers , Inc.",FALSE
-kylan.ross@almalasers.com,AlmaHP4816!,0055d00000CcZ9JAAV,Kylan,Ross,Kylan Ross,kylan.ross@almalasers.com,"Alma Lasers , Inc.",FALSE
-kent.mertens@almalasers.com,AlmaOT1978!,0055d00000Ccb1HAAR,Kent,Mertens,Kent Mertens,kent.mertens@almalasers.com,"Alma Lasers , Inc.",TRUE
-angela.ramirez@almalasers.com,AlmaQG5511!,0055d00000CcbEuAAJ,Angela,Ramirez,Angela Ramirez,angela.ramirez@almalasers.com,"Alma Lasers , Inc.",TRUE
-katie.penney@almalasers.com,AlmaEK5832!,0055d00000CcbEzAAJ,Katie,Penney,Katie Penney,katie.penney@almalasers.com,"Alma Lasers , Inc.",TRUE
-colin.dawson@almalasers.com,AlmaUP1155!,0055d00000CcboOAAR,Colin,Dawson,Colin Dawson,colin.dawson@almalasers.com,"Alma Lasers , Inc.",TRUE
-jake.morse@almalasers.com,AlmaMV9796!,0055d00000Ccc5eAAB,Jake,Morse,Jake Morse,jake.morse@almalasers.com,"Alma Lasers , Inc.",FALSE
-rosie.mahesparan@almalasers.com,AlmaIY4810!,0055d00000Ccc6cAAB,Rosie,Mahesparan,Rosie Mahesparan,rosie.mahesparan@almalasers.com,"Alma Lasers , Inc.",TRUE
-claire.vodrazka@almalasers.com,AlmaTM6152!,0055d00000CcdxhAAB,Claire,Vodrazka,Claire Vodrazka,claire.vodrazka@almalasers.com,"Alma Lasers , Inc.",FALSE
-alex.stelter@almalasers.com,AlmaWU1370!,0055d00000CcguqAAB,Alex,Stelter,Alex Stelter,alex.stelter@almalasers.com,"Alma Lasers , Inc.",TRUE
-anthony.cannata@almalasers.com,AlmaSG1513!,0055d00000CcgveAAB,Anthony,Cannata,Anthony Cannata,anthony.cannata@almalasers.com,"Alma Lasers , Inc.",FALSE
-chris.donlon@almalasers.com,AlmaUV8964!,0055d00000CcgwNAAR,Chris,Donlon,Chris Donlon,chris.donlon@almalasers.com,"Alma Lasers , Inc.",FALSE
-morgan.giuliani@almalasers.com,AlmaHH8020!,0055d00000CcgydAAB,Morgan,Giuliani,Morgan Giuliani,morgan.giuliani@almalasers.com,"Alma Lasers , Inc.",TRUE
-jordana.wouk@almalasers.com,AlmaDR9406!,0055d00000CciqCAAR,Jordana,Wouk,Jordana Wouk,jordana.wouk@almalasers.com,"Alma Lasers , Inc.",TRUE
-nassim.zeinali@almalasers.com,AlmaVZ6248!,0055d00000CciqMAAR,Nassim,Zeinali,Nassim Zeinali,nassim.zeinali@almalasers.com,"Alma Lasers , Inc.",TRUE
-danny.evans@almalasers.com,AlmaUJ4231!,0055d00000CciqgAAB,Daniel,Evans,Daniel Evans,danny.evans@almalasers.com,"Alma Lasers , Inc.",FALSE
-dominic.watson@almalasers.com,AlmaTC6924!,0055d00000Ccir0AAB,Dominic,Watson,Dominic Watson,dominic.watson@almalasers.com,"Alma Lasers , Inc.",TRUE
-nicole.mareci@almalasers.com,AlmaSO6161!,0055d00000Ccir5AAB,Nicole,Mareci,Nicole Mareci,nicole.mareci@almalasers.com,"Alma Lasers , Inc.",FALSE
-melissa.pinkerton@almalasers.com,AlmaTO5564!,0055d00000CjkRRAAZ,Melissa,Pinkerton,Melissa Pinkerton,melissa.pinkerton@almalasers.com,"Alma Lasers , Inc.",TRUE
-brianna.bitout@almalasers.com,AlmaLT7774!,0055d00000CxDlbAAF,Brianna,Bitout,Brianna Bitout,brianna.bitout@almalasers.com,"Alma Lasers , Inc.",TRUE
-mike.sweeney@almalasers.com,AlmaOK2112!,0055d00000CyBB9AAN,Michael,Sweeney,Michael Sweeney,mike.sweeney@almalasers.com,"Alma Lasers , Inc.",FALSE
-christina.conkle@almalasers.com,AlmaMI6827!,0055d00000CyxkMAAR,Christina,Conkle,Christina Conkle,christina.conkle@almalasers.com,"Alma Lasers , Inc.",FALSE
-regulatory@almalasers.com,AlmaLM5051!,0055d00000CyyF0AAJ,Regulatory,Affairs Team,Regulatory Affairs Team,regulatory@almalasers.com,"Alma Lasers , Inc.",FALSE
-joe.esquivel@almalasers.com,AlmaLO8422!,0055d00000CyzULAAZ,Joe,Esquivel,Joe Esquivel,joe.esquivel@almalasers.com,"Alma Lasers , Inc.",TRUE
-megan.bagdon@almalasers.com,AlmaXL3626!,0055d00000Cz350AAB,Megan,Bagdon,Megan Bagdon,megan.bagdon@almalasers.com,"Alma Lasers , Inc.",TRUE
-elizabeth.rude@almalasers.com,AlmaOD9336!,0055d00000Cz35UAAR,Elizabeth,Rude,Elizabeth Rude,elizabeth.rude@almalasers.com,"Alma Lasers , Inc.",TRUE
-alicia.warner@almalasers.com,AlmaDV1173!,0055d00000Cz3pIAAR,Alicia,Warner,Alicia Warner,alicia.warner@almalasers.com,"Alma Lasers , Inc.",FALSE
-adam.cox@almalasers.com,AlmaQJ1655!,0055d00000Cz5R3AAJ,Adam,Cox,Adam Cox,adam.cox@almalasers.com,"Alma Lasers , Inc.",TRUE
-steven.stickrod@almalasers.com,AlmaRP1387!,0055d00000Cz5RDAAZ,Steven,Stickrod,Steven Stickrod,steven.stickrod@almalasers.com,"Alma Lasers , Inc.",FALSE
-jason.roeske@almalasers.com,AlmaJG4288!,0055d00000Cz8EgAAJ,Jason,Roeske,Jason Roeske,jason.roeske@almalasers.com,"Alma Lasers , Inc.",FALSE
-kyle.pacheco@almalasers.com,AlmaGO3697!,0055d00000Cz8FKAAZ,Kyle,Pacheco,Kyle Pacheco,kyle.pacheco@almalasers.com,"Alma Lasers , Inc.",TRUE
-stephanie.howard@almalasers.com,AlmaHR8154!,0055d00000Cz8FyAAJ,Stephanie,Howard,Stephanie Howard,stephanie.howard@almalasers.com,"Alma Lasers , Inc.",FALSE
-amy.ziemer@almalasers.com,AlmaWO1779!,0055d00000Cz9D0AAJ,Amy,Ziemer,Amy Ziemer,amy.ziemer@almalasers.com,"Alma Lasers , Inc.",TRUE
-jacob.kestler@almalasers.com,AlmaQY6828!,0055d00000Cz9DoAAJ,Jacob,Kestler,Jacob Kestler,jacob.kestler@almalasers.com,"Alma Lasers , Inc.",FALSE
-lindsey.white@almalasers.com,AlmaRA9733!,0055d00000CzB4eAAF,Lindsey,White,Lindsey White,lindsey.white@almalasers.com,"Alma Lasers , Inc.",TRUE
-savannah.bates@almalasers.com,AlmaYK9744!,0055d00000CzBp6AAF,Savannah,Bates,Savannah Bates,savannah.bates@almalasers.com,"Alma Lasers , Inc.",TRUE
-kimberly.scribner@almalasers.com,AlmaPI7326!,0055d00000CzCvoAAF,Kimberly,Scribner,Kimberly Scribner,kimberly.scribner@almalasers.com,"Alma Lasers , Inc.",FALSE
-rachel.boden@almalasers.com,AlmaKM8932!,0055d00000CzFPMAA3,Rachel,Boden,Rachel Boden,rachel.boden@almalasers.com,"Alma Lasers , Inc.",TRUE
-eileen.mckevitt@almalasers.com,AlmaSH6948!,0055d00000CzFbwAAF,Eileen,McKevitt,Eileen McKevitt,eileen.mckevitt@almalasers.com,"Alma Lasers , Inc.",TRUE
-alyssa.falvey@almalasers.com,AlmaJJ8379!,0055d00000CzFc1AAF,Alyssa,Falvey,Alyssa Falvey,alyssa.falvey@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashlynn.brink@almalasers.com,AlmaJE7843!,0055d00000CzFc6AAF,Ashlynn,Brink,Ashlynn Brink,ashlynn.brink@almalasers.com,"Alma Lasers , Inc.",FALSE
-meghan.leonard@almalasers.com,AlmaOV8895!,0055d00000CzFz0AAF,Meghan,Leonard,Meghan Leonard,meghan.leonard@almalasers.com,"Alma Lasers , Inc.",TRUE
-jaspin.newell@almalasers.com,AlmaOC2110!,0055d00000CzFzAAAV,Jaspin,Newell,Jaspin Newell,jaspin.newell@almalasers.com,"Alma Lasers , Inc.",TRUE
-bridget.dibella@almalasers.com,AlmaWX2705!,0055d00000CzFzFAAV,Bridget,DiBella,Bridget DiBella,bridget.dibella@almalasers.com,"Alma Lasers , Inc.",TRUE
-derek.williams.almalasers@stonyp.com,AlmaOR8351!,0055d00000CzGM4AAN,Mark,Christie,Mark Christie,mchristie@salesforcetraining.com,"Alma Lasers , Inc.",FALSE
-jonathan.davila@almalasers.com,AlmaYH2147!,0055d00000CzGW4AAN,Jonathan,Davila,Jonathan Davila,jonathan.davila@almalasers.com,"Alma Lasers , Inc.",FALSE
-shane.delacruz@almalasers.com,AlmaFS7680!,0055d00000CzGWEAA3,Shane,De La Cruz,Shane De La Cruz,shane.delacruz@almalasers.com,"Alma Lasers , Inc.",TRUE
-alma_charles.groce@metzgers.com,AlmaGO3022!,0055d00000CzH2oAAF,eStore,Canada,eStore Canada,charles.groce@metzgers.com,"Alma Lasers , Inc.",TRUE
-tommy.whalen@almalasers.com,AlmaPX7267!,0055d00000CzHnzAAF,Tommy,Whalen,Tommy Whalen,tommy.whalen@almalasers.com,"Alma Lasers , Inc.",TRUE
-stephanie.leblanc@almalasers.com,AlmaDZ1182!,0055d00000CzICkAAN,Stephanie,Leblanc,Stephanie Leblanc,stephanie.leblanc@almalasers.com,"Alma Lasers , Inc.",FALSE
-van.vu@almalasers.com,AlmaGS1121!,0055d00000CzMAJAA3,Van,Vu,Van Vu,van.vu@almalasers.com,"Alma Lasers , Inc.",FALSE
-daniel.allmond@almalasers.com,AlmaBL3151!,0055d00000CzMD8AAN,Daniel,Allmond,Daniel Allmond,daniel.allmond@almalasers.com,"Alma Lasers , Inc.",FALSE
-nate.ryder@almalasers.com,AlmaMA7977!,0055d00000CzMDcAAN,Nate,Ryder,Nate Ryder,nate.ryder@almalasers.com,"Alma Lasers , Inc.",TRUE
-lora.billesbach@almalasers.com,AlmaKI2010!,0055d00000CzMDwAAN,Lora,Billesbach,Lora Billesbach,lora.billesbach@almalasers.com,"Alma Lasers , Inc.",FALSE
-anne.benedito@almalasers.com,AlmaZU4894!,0055d00000CzMEQAA3,Anne,Benedito,Anne Benedito,anne.benedito@almalasers.com,"Alma Lasers , Inc.",FALSE
-ramona.laslau@almalasers.com,AlmaRW3520!,0055d00000CzPz5AAF,Ramona,Laslau,Ramona Laslau,ramona.laslau@almalasers.com,"Alma Lasers , Inc.",TRUE
-victor.stackhouse@almalasers.com,AlmaIE6649!,0055d00000CzPzAAAV,Victor,Stackhouse,Victor Stackhouse,victor.stackhouse@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.cronn@almalasers.com,AlmaXZ6481!,0055d00000CzPzFAAV,Michael,Cronn,Michael Cronn,michael.cronn@almalasers.com,"Alma Lasers , Inc.",TRUE
-jon.szabo@almalasers.com,AlmaEN2886!,0055d00000CzPzPAAV,Jon,Szabo,Jon Szabo,jon.szabo@almalasers.com,"Alma Lasers , Inc.",TRUE
-elliot.hardwick@almalasers.com,AlmaLA9101!,0055d00000CzPzZAAV,Elliot,Hardwick,Elliot Hardwick,elliot.hardwick@almalasers.com,"Alma Lasers , Inc.",TRUE
-monique.mercier@almalasers.com,AlmaLK2615!,0055d00000CzPzeAAF,Monique,Mercier,Monique Mercier,monique.mercier@almalasers.com,"Alma Lasers , Inc.",FALSE
-ashley.ramos@almalasers.com,AlmaYX4907!,0055d00000CzQNHAA3,Ashley,Ramos,Ashley Ramos,ashley.ramos@almalasers.com,"Alma Lasers , Inc.",TRUE
-emily.butler@almalasers.com,AlmaRE5029!,0055d00000CzQNMAA3,Emily,Butler,Emily Butler,emily.butler@almalasers.com,"Alma Lasers , Inc.",FALSE
-brandon.dunham@almalasers.com,AlmaXG2319!,0055d00000CzQNWAA3,Brandon,Dunham,Brandon Dunham,brandon.dunham@almalasers.com,"Alma Lasers , Inc.",TRUE
-katie.costantino@almalasers.com,AlmaFP5235!,0055d00000CzTgvAAF,Katie,Costantino,Katie Costantino,katie.costantino@almalasers.com,"Alma Lasers , Inc.",TRUE
-amina.mayzel@almalasers.com,AlmaUG5228!,0055d00000CzTh0AAF,Amina,Mayzel,Amina Mayzel,amina.mayzel@almalasers.com,"Alma Lasers , Inc.",FALSE
-lawanda.spencer@almalasers.com,AlmaGO8457!,0055d00000CzUzPAAV,LaWanda,Spencer,LaWanda Spencer,lawanda.spencer@almalasers.com,"Alma Lasers , Inc.",FALSE
-brianna.huffman@almalasers.com,AlmaGX5919!,0055d00000CzVqJAAV,Brianna,Huffman,Brianna Huffman,brianna.huffman@almalasers.com,"Alma Lasers , Inc.",FALSE
-christa.ramirez@almalasers.com,AlmaKT5350!,0055d00000CzaWJAAZ,Christa,Ramirez,Christa Ramirez,christa.ramirez@almalasers.com,"Alma Lasers , Inc.",FALSE
-stephanie.iorio@almalasers.com,AlmaVT4608!,0055d00000CzaWiAAJ,Stephanie,Iorio,Stephanie Iorio,stephanie.iorio@almalasers.com,"Alma Lasers , Inc.",FALSE
-brian.fletcher@almalasers.com,AlmaJV4457!,0055d00000CzaX2AAJ,Brian,Fletcher,Brian Fletcher,brian.fletcher@almalasers.com,"Alma Lasers , Inc.",TRUE
-adam.baldick@almalasers.com,AlmaWO6259!,0055d00000CzafaAAB,Adam,Baldick,Adam Baldick,adam.baldick@almalasers.com,"Alma Lasers , Inc.",TRUE
-mason.tortorice@almalasers.com,AlmaIF8394!,0055d00000CzakkAAB,Mason,Tortorice,Mason Tortorice,mason.tortorice@almalasers.com,"Alma Lasers , Inc.",FALSE
-remi.zellman@almalasers.com,AlmaLD6519!,0055d00000CzdlWAAR,Remi,Zellman,Remi Zellman,remi.zellman@almalasers.com,"Alma Lasers , Inc.",FALSE
-dalton.morris@almalasers.com,AlmaVA8455!,0055d00000Czdm5AAB,Dalton,Morris,Dalton Morris,dalton.morris@almalasers.com,"Alma Lasers , Inc.",TRUE
-hannah.poeckes@almalasers.com,AlmaKM7191!,0055d00000CzdsNAAR,Hannah,Poeckes,Hannah Poeckes,hannah.poeckes@almalasers.com,"Alma Lasers , Inc.",FALSE
-mark.reza@almalasers.com,AlmaZP3362!,0055d00000CzdsSAAR,Mark,Reza,Mark Reza,mark.reza@almalasers.com,"Alma Lasers , Inc.",FALSE
-tim.ferraz@almalasers.com,AlmaBS2608!,0055d00000CziCgAAJ,Tim,Ferraz,Tim Ferraz,tim.ferraz@almalasers.com,"Alma Lasers , Inc.",TRUE
-jeovani.landin@almalasers.com,AlmaJS6893!,0055d00000CziClAAJ,Jeovani,Alvarez-Landin,Jeovani Alvarez-Landin,jeovani.landin@almalasers.com,"Alma Lasers , Inc.",TRUE
-amber.coulbourne@almalasers.com,AlmaSS4921!,0055d00000DDIKXAA5,Amber,Coulbourne,Amber Coulbourne,amber.coulbourne@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashley.crisci@almalasers.com,AlmaCN3673!,0055d00000DDIKmAAP,Ashley,Crisci,Ashley Crisci,ashley.crisci@almalasers.com,"Alma Lasers , Inc.",FALSE
-tyler.demasi@almalasers.com,AlmaXZ1104!,0055d00000DDKqGAAX,Tyler,DeMasi,Tyler DeMasi,tyler.demasi@almalasers.com,"Alma Lasers , Inc.",FALSE
-amanda.boyce@almalasers.com,AlmaOX9167!,0055d00000DDW3kAAH,Amanda,Boyce,Amanda Boyce,amanda.boyce@almalasers.com,"Alma Lasers , Inc.",TRUE
-jaxon.higginson@almalasers.com,AlmaAD5111!,0055d00000DDaQYAA1,Jaxon,Higginson,Jaxon Higginson,jaxon.higginson@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.zozulia@almalasers.com,AlmaPY1836!,0055d00000DDbsTAAT,Michael,Zozulia,Michael Zozulia,michael.zozulia@almalasers.com,"Alma Lasers , Inc.",TRUE
-stephanie.el-bahar@almalasers.com,AlmaQK7936!,0055d00000DDdFdAAL,Stephanie,El-Bahar,Stephanie El-Bahar,stephanie.el-bahar@almalasers.com,"Alma Lasers , Inc.",TRUE
-krista.detura@almalasers.com,AlmaUS9418!,0055d00000DDfcKAAT,Krista,DeTura,Krista DeTura,krista.detura@almalasers.com,"Alma Lasers , Inc.",TRUE
-carly.wray@almalasers.com,AlmaXP5890!,0055d00000DDneEAAT,Carly,Wray,Carly Wray,carly.wray@almalasers.com,"Alma Lasers , Inc.",TRUE
-darien.brown@almalasers.com,AlmaYO7509!,0055d00000DDneJAAT,Darien,Brown,Darien Brown,darien.brown@almalasers.com,"Alma Lasers , Inc.",FALSE
-natalie.brown@almalasers.com,AlmaMB8552!,0055d00000DDrT5AAL,Natalie,Brown,Natalie Brown,natalie.brown@almalasers.com,"Alma Lasers , Inc.",TRUE
-damien.mcintosh@almalasers.com,AlmaGU7580!,0055d00000DDvkeAAD,Damien,Mcintosh,Damien Mcintosh,damien.mcintosh@almalasers.com,"Alma Lasers , Inc.",FALSE
-asia.cordell@almalasers.com,AlmaAR1636!,0055d00000DDzo1AAD,Asia,Cordell,Asia Cordell,asia.cordell@almalasers.com,"Alma Lasers , Inc.",TRUE
-danielle.koontz@almalasers.com,AlmaDD1250!,0055d00000DDzo6AAD,Danielle,Koontz,Danielle Koontz,danielle.koontz@almalasers.com,"Alma Lasers , Inc.",TRUE
-amanda.martyniuk@almalasers.com,AlmaAY6713!,0055d00000DDzoGAAT,Amanda,Martyniuk,Amanda Martyniuk,amanda.martyniuk@almalasers.com,"Alma Lasers , Inc.",TRUE
-tony.deszcz@almalasers.com,AlmaSN7053!,0055d00000DE2oTAAT,Tony,Deszcz,Tony Deszcz,tony.deszcz@almalasers.com,"Alma Lasers , Inc.",TRUE
-ben.steffen@almalasers.com,AlmaBK1336!,0055d00000DE6HiAAL,Ben,Steffen,Ben Steffen,ben.steffen@almalasers.com,"Alma Lasers , Inc.",TRUE
-james.kasch@almalasers.com,AlmaYP2255!,0055d00000DE6HnAAL,James,Kasch,James Kasch,james.kasch@almalasers.com,"Alma Lasers , Inc.",FALSE
-taylor.basil@almalasers.com,AlmaPH9217!,0055d00000DE6HsAAL,Taylor,Basil,Taylor Basil,taylor.basil@almalasers.com,"Alma Lasers , Inc.",TRUE
-dmitri.bopp@almalasers.com,AlmaLT4826!,0055d00000DE7ZiAAL,Dmitri,Bopp,Dmitri Bopp,dmitri.bopp@almalasers.com,"Alma Lasers , Inc.",FALSE
-kfir.solomon@almalasers.com,AlmaCR1422!,0055d00000DEB1zAAH,Kfir,Solomon,Kfir Solomon,kfir.solomon@almalasers.com,"Alma Lasers , Inc.",FALSE
-katrina.wilhelm@almalasers.com,AlmaBX9634!,0055d00000DEFptAAH,Katrina,Wilhelm,Katrina Wilhelm,katrina.wilhelm@almalasers.com,"Alma Lasers , Inc.",FALSE
-travis.dodge@almalasers.com,AlmaJP1328!,0055d00000DEFx9AAH,Travis,Dodge,Travis Dodge,travis.dodge@almalasers.com,"Alma Lasers , Inc.",TRUE
-mariah.burtness@almalasers.com,AlmaBY2728!,0055d00000DEIb6AAH,Mariah,Burtness,Mariah Burtness,mariah.burtness@almalasers.com,"Alma Lasers , Inc.",FALSE
-taryn.shockley@almalasers.com,AlmaQV7861!,0055d00000DEIbfAAH,Taryn,Shockley,Taryn Shockley,taryn.shockley@almalasers.com,"Alma Lasers , Inc.",TRUE
-david.krueger@almalasers.com,AlmaPA3003!,0055d00000DENQDAA5,David,Krueger,David Krueger,david.krueger@almalasers.com,"Alma Lasers , Inc.",TRUE
-matthew.malone@almalasers.com,AlmaWT3564!,0055d00000DENQXAA5,Matthew,Malone,Matthew Malone,matthew.malone@almalasers.com,"Alma Lasers , Inc.",TRUE
-erika.valencia@almalasers.com,AlmaNY8615!,0055d00000DENR1AAP,Erika,Valencia,Erika Valencia,erika.valencia@almalasers.com,"Alma Lasers , Inc.",FALSE
-andreas.suri@almalasers.com,AlmaCW3597!,0055d00000DEO0BAAX,Andreas,Suri,Andreas Suri,andreas.suri@almalasers.com,"Alma Lasers , Inc.",TRUE
-peyton.saxton@almalasers.com,AlmaHJ9010!,0055d00000DEZWIAA5,Peyton,Saxton,Peyton Saxton,peyton.saxton@almalasers.com,"Alma Lasers , Inc.",FALSE
-jessica.waltmire@almalasers.com,AlmaAF3618!,0055d00000DEaAIAA1,Jessica,Waltmire,Jessica Waltmire,jessica.waltmire@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashley.winter@almalasers.com,AlmaUG3022!,0055d00000DEaAmAAL,Ashley,Winter,Ashley Winter,ashley.winter@almalasers.com,"Alma Lasers , Inc.",TRUE
-teamtn@almalasers.com,AlmaLM4792!,0055d00000DEc8dAAD,Team,TN,Team TN,teamtn@almalasers.com,"Alma Lasers , Inc.",FALSE
-nancy.torres@almalasers.com,AlmaHF6688!,0055d00000DEiN0AAL,Nancy,Torres,Nancy Torres,nancy.torres@almalasers.com,"Alma Lasers , Inc.",FALSE
-courtney.moody@almalasers.com,AlmaFX5227!,0055d00000DEk74AAD,Courtney,Moody,Courtney Moody,courtney.moody@almalasers.com,"Alma Lasers , Inc.",FALSE
-kristen.carbone@almalasers.com,AlmaOR9050!,0055d00000DEnv2AAD,Kristen,Carbone,Kristen Carbone,kristen.carbone@almalasers.com,"Alma Lasers , Inc.",TRUE
-taylor.blevins@almalasers.com,AlmaRT3522!,0055d00000DEnvlAAD,Taylor,Blevins,Taylor Blevins,taylor.blevins@almalasers.com,"Alma Lasers , Inc.",TRUE
-josh.terry@almalasers.com,AlmaFP5258!,0055d00000DEnwFAAT,Josh,Terry,Josh Terry,josh.terry@almalasers.com,"Alma Lasers , Inc.",FALSE
-anthony.michelucci@almalasers.com,AlmaLU6656!,0055d00000DEnwKAAT,Anthony,Michelucci,Anthony Michelucci,anthony.michelucci@almalasers.com,"Alma Lasers , Inc.",FALSE
-jessica.taylor@almalasers.com,AlmaPI2483!,0055d00000DEnxNAAT,Jessica,Taylor,Jessica Taylor,jessica.taylor@almalasers.com,"Alma Lasers , Inc.",TRUE
-aanu.ogedengbe@almalasers.com,AlmaXF5064!,0055d00000DEnzdAAD,Aanu,Ogedengbe,Aanu Ogedengbe,aanu.ogedengbe@almalasers.com,"Alma Lasers , Inc.",TRUE
-alerts@almalasers.co.il,AlmaUW4134!,0055d00000DEo5MAAT,,SIEM,SIEM,alerts@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-ymarkovitz@deloitte.co.il.alma.portal,AlmaSI9444!,0055d00000DEsY3AAL,Test,Portal,Test Portal,ymarkovitz@deloitte.co.il,"Alma Lasers , Inc.",TRUE
-pedro.martinez@almalasers.com,AlmaLQ6897!,0055d00000DEusFAAT,Pedro,Martinez,Pedro Martinez,pedro.martinez@almalasers.com,"Alma Lasers , Inc.",FALSE
-gfe.rotman+31@gmail.com,AlmaEA2782!,0055d00000Dg0XcAAJ,Giselle,Rotman Buyer,Giselle Rotman Buyer,gfe.rotman+31@gmail.com,"Alma Lasers , Inc.",TRUE
-ismail.pulic@almalasers.com,AlmaZI9587!,0055d00000Dg1ciAAB,Ismail,Pulic,Ismail Pulic,ismail.pulic@almalasers.com,"Alma Lasers , Inc.",TRUE
-amirkratz+18@gmail.com,AlmaRI1735!,0055d00000Dg3ZWAAZ,TEST PROD,CAD,TEST PROD CAD,amirkratz+18@gmail.com,"Alma Lasers , Inc.",FALSE
-amirkratz.alma+55@gmail.com,AlmaNB7934!,0055d00000Dg3aUAAR,Test,CAD PROD,Test CAD PROD,amirkratz.alma+55@gmail.com,"Alma Lasers , Inc.",TRUE
-test@calender.com,AlmaTW9014!,0055d00000Dg4FDAAZ,TEST,Calender,TEST Calender,test@calender.com,"Alma Lasers , Inc.",TRUE
-qa@cad.com,AlmaVL9168!,0055d00000Dg4FXAAZ,QA,CAD,QA CAD,qa@cad.com,"Alma Lasers , Inc.",TRUE
-test@buyer.com,AlmaGX8492!,0055d00000Dg4GBAAZ,Test,Buyer,Test Buyer,test@buyer.com,"Alma Lasers , Inc.",TRUE
-jona55o@gmail.com,AlmaZB1740!,0055d00000Dg4IvAAJ,Client Relations Test,Client Relations Test,Client Relations Test Client Relations Test,jona55@gmail.com,"Alma Lasers , Inc.",FALSE
-nirmalrao.javaji@peopletech.com,AlmaDQ8055!,0055d00000Dg4j3AAB,Nirmalrao,Javaji,Nirmalrao Javaji,nirmalrao.javaji@peopletech.com,"Alma Lasers , Inc.",FALSE
-ramon55@gmail.com,AlmaPL1139!,0055d00000Dg6YbAAJ,Ramona,Laslau,Ramona Laslau,ramon55@gmail.com,"Alma Lasers , Inc.",FALSE
-jesq0923@gmail.com,AlmaER8301!,0055d00000Dg6Z5AAJ,Joe,Esquivel,Joe Esquivel,jesq0923@gmail.com,"Alma Lasers , Inc.",TRUE
-dg2023work@gmail.com,AlmaAB4164!,0055d00000Dg6ZZAAZ,Dani,Grinter,Dani Grinter,dg2023work@gmail.com,"Alma Lasers , Inc.",TRUE
-amirkratz+199@gmail.com.alma,AlmaGH8883!,0055d00000Dg6ZyAAJ,Amir1,Kratz1,Amir1 Kratz1,amirkratz+199@gmail.com,"Alma Lasers , Inc.",TRUE
-mayaevenhaim+7@gmail.com.alma,AlmaLN2065!,0055d00000Dg6acAAB,Maya,Bug,Maya Bug,mayaevenhaim+7@gmail.com,"Alma Lasers , Inc.",TRUE
-jonaszabo@gmail.com,AlmaTC7138!,0055d00000Dg6vVAAR,Jon,Szabo Buyer Account,Jon Szabo Buyer Account,jonszaboalmalasers@gmail.com,"Alma Lasers , Inc.",TRUE
-ramonalaslau106@gmail.com,AlmaHN4372!,0055d00000Dg6vaAAB,Ramona,Laslau,Ramona Laslau,ramonalaslau106@gmail.com,"Alma Lasers , Inc.",TRUE
-nikol.lev@sisram-medical.com.alma,AlmaGO8185!,0055d00000DqpV2AAJ,Nikol,Sisram,Nikol Sisram,nikol.lev@sisram-medical.com,"Alma Lasers , Inc.",TRUE
-karl.schmitter@almalasers.com,AlmaOW9905!,0055d00000Dqpk7AAB,Karl,Schmitter,Karl Schmitter,karl.schmitter@almalasers.com,"Alma Lasers , Inc.",FALSE
-john.lynch@almalasers.com,AlmaOF7549!,0055d00000Dqr2MAAR,John,Lynch,John Lynch,john.lynch@almalasers.com,"Alma Lasers , Inc.",TRUE
-laura.roads@almalasers.com,AlmaMM7153!,0055d00000Dqr2bAAB,Laura,Roads,Laura Roads,laura.roads@almalasers.com,"Alma Lasers , Inc.",TRUE
-laura.grosvenor@almalasers.com,AlmaEN1779!,0055d00000DqslIAAR,Laura,Grosvenor,Laura Grosvenor,laura.grosvenor@almalasers.com,"Alma Lasers , Inc.",TRUE
-mayaevenhaim@gmail.com,AlmaAB9207!,0055d00000DqvMVAAZ,Maya,Test,Maya Test,mayaevenhaim@gmail.com,"Alma Lasers , Inc.",TRUE
-tim.grzeczka@almalasers.com,AlmaTC1413!,0055d00000DqwJrAAJ,Tim,Grzeczka,Tim Grzeczka,tim.grzeczka@almalasers.com,"Alma Lasers , Inc.",TRUE
-jeff.morris@almalasers.com,AlmaYB7211!,0055d00000DqwYSAAZ,Jeff,Morris,Jeff Morris,jeff.morris@almalasers.com,"Alma Lasers , Inc.",TRUE
-brittany.scully@almalasers.com,AlmaHM5265!,0055d00000DqxiJAAR,Brittany,Scully,Brittany Scully,brittany.scully@almalasers.com,"Alma Lasers , Inc.",TRUE
-brian.mcmahon@almalasers.com,AlmaUH6572!,0055d00000DqzavAAB,Brian,McMahon,Brian McMahon,brian.mcmahon@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.zozulia+1@almalasers.com,AlmaKX2484!,0055d00000Dr9sBAAR,Michael,Zozulia,Michael Zozulia,michael.zozulia+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-francesca.ham+1@almalasers.com,AlmaWO9417!,0055d00000Dr9z7AAB,Francesca,Ham,Francesca Ham,francesca.ham+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-mpzozulia@gmail.com.alma,AlmaKK6378!,0055d00000DrApDAAV,Michael,Zozulia,Michael Zozulia,mpzozulia@gmail.com,"Alma Lasers , Inc.",TRUE
-jordan.webb@almalasers.com,AlmaTV5198!,0055d00000DrBfEAAV,Jordan,Webb,Jordan Webb,jordan.webb@almalasers.com,"Alma Lasers , Inc.",TRUE
-kevin.fillmore@almalasers.com,AlmaIP2267!,0055d00000DrBqCAAV,Kevin,Fillmore,Kevin Fillmore,kevin.fillmore@almalasers.com,"Alma Lasers , Inc.",TRUE
-vincent.larocca@almalasers.com,AlmaGN2526!,0055d00000DrBqvAAF,Vincent,LaRocca,Vincent LaRocca,vincent.larocca@almalasers.com,"Alma Lasers , Inc.",TRUE
-jacob.throneberry@almalasers.com,AlmaOM9332!,0055d00000DrBrAAAV,Jacob,Throneberry,Jacob Throneberry,jacob.throneberry@almalasers.com,"Alma Lasers , Inc.",TRUE
-ricoh@almalasers.com,AlmaAH5155!,0055d00000DrE0TAAV,Ricoh,Certified Partner,Ricoh Certified Partner,ricoh@almalasers.com,"Alma Lasers , Inc.",TRUE
-maissa.kabbani@yahoo.com.alma,AlmaFO2531!,0055d00000DrG8AAAV,Maissa,Kabbani,Maissa Kabbani,maissa.kabbani@yahoo.com,"Alma Lasers , Inc.",TRUE
-_nursejme03@gmail.com.alma,AlmaDP2207!,0055d00000DrGMHAA3,Jaime,Welsh,Jaime Welsh,nursejme03@gmail.com,"Alma Lasers , Inc.",FALSE
-jamaaesthetics@gmail.com.alma,AlmaOO8181!,0055d00000DrGXZAA3,Marissa,Hughes,Marissa Hughes,jamaaesthetics@gmail.com,"Alma Lasers , Inc.",TRUE
-quincylucas@hotmail.com.alma,AlmaYW3205!,0055d00000DrGkiAAF,Quincy,Lucas,Quincy Lucas,quincylucas@hotmail.com,"Alma Lasers , Inc.",TRUE
-lenise.eliano@gmail.com.alma,AlmaXS3133!,0055d00000DrHOnAAN,Lenise,Johnson,Lenise Johnson,lenise.eliano@gmail.com,"Alma Lasers , Inc.",TRUE
-lstojicdds@gmail.com.alma,AlmaHX8868!,0055d00000DrHRDAA3,Dr. Lilliana,Stojic,Dr. Lilliana Stojic,lstojicdds@gmail.com,"Alma Lasers , Inc.",TRUE
-ldent9111@gmail.com.alma,AlmaOX7533!,0055d00000DrHS6AAN,Lilliana,Stojic,Lilliana Stojic,ldent9111@gmail.com,"Alma Lasers , Inc.",TRUE
-neecie.imoni@gmail.com.alma,AlmaNA5994!,0055d00000DrHVUAA3,Lenise,Johnson,Lenise Johnson,neecie.imoni@gmail.com,"Alma Lasers , Inc.",TRUE
-almyai@almalasers.com,AlmaND4440!,0055d00000DrJ1bAAF,Almy,Integration,Almy Integration,almyai@almalasers.com,"Alma Lasers , Inc.",TRUE
-sara.ann.rizvi@gmail.com.alma,AlmaCB1147!,0055d00000DrN1BAAV,Sara,Rizvi,Sara Rizvi,sara.ann.rizvi@gmail.com,"Alma Lasers , Inc.",TRUE
-caitlinsfarrell@gmail.com.alma,AlmaVE8981!,0055d00000DrN1CAAV,Caitlin,Farrell,Caitlin Farrell,caitlinsfarrell@gmail.com,"Alma Lasers , Inc.",TRUE
-frannyhammy@gmail.com.alma,AlmaTE8534!,0055d00000DrN1GAAV,Fran,Ham,Fran Ham,frannyhammy@gmail.com,"Alma Lasers , Inc.",TRUE
-dawn.franklin@almalasers.com,AlmaUM2578!,0055d00000DrRXkAAN,Dawn,Franklin,Dawn Franklin,dawn.franklin@almalasers.com,"Alma Lasers , Inc.",FALSE
-beatrice.fabian@almalasers.com,AlmaTK6200!,0055d00000DrRaZAAV,Beatrice,Fabian,Beatrice Fabian,beatrice.fabian@almalasers.com,"Alma Lasers , Inc.",TRUE
-mia.byers@almalasers.com,AlmaYZ9987!,0055d00000DrRx9AAF,Mia,Byers,Mia Byers,mia.byers@almalasers.com,"Alma Lasers , Inc.",TRUE
-maxime.trepanier@almalasers.com,AlmaUA5300!,0055d00000DrUMaAAN,Maxime,Trepanier,Maxime Trepanier,maxime.trepanier@almalasers.com,"Alma Lasers , Inc.",TRUE
-jimmy.choe@almalasers.com,AlmaFH7261!,0055d00000DrWi4AAF,Jimmy,Choe,Jimmy Choe,jimmy.choe@almalasers.com,"Alma Lasers , Inc.",FALSE
-domdigitalmedia@gmail.com.alma,AlmaKH5652!,0055d00000DrXmHAAV,Dominique,Shepherd,Dominique Shepherd,domdigitalmedia@gmail.com,"Alma Lasers , Inc.",TRUE
-sarah.smith@almalasers.com,AlmaQE7473!,0055d00000DrZCzAAN,Sarah,Smith,Sarah Smith,sarah.smith@almalasers.com,"Alma Lasers , Inc.",FALSE
-keith.adams+1@almalasers.com.alma,AlmaGM2423!,0055d00000Drcv9AAB,Keith,Adams,Keith Adams,keith.adams+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-aizen.dorit@gmail.com.alma,AlmaOZ7032!,0055d00000DrdRjAAJ,Let’s,Talk,Let’s Talk,aizen.dorit@gmail.com,"Alma Lasers , Inc.",TRUE
-eyal.bendavid@gmail.com.alma,AlmaLN7451!,0055d00000DrfHMAAZ,Eyal,Ben David,Eyal Ben David,eyal.bendavid@gmail.com,"Alma Lasers , Inc.",TRUE
-katie.bennett+1@almalasers.uk.alma,AlmaTU4650!,0055d00000DrfHRAAZ,Katie,Bennett,Katie Bennett,katie.bennett+1@almalasers.uk,"Alma Lasers , Inc.",TRUE
-tal.burgan@almalasers.co.il.alma,AlmaQB6729!,0055d00000DrfHSAAZ,Tal,Burgan,Tal Burgan,tal.burgan@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-anat.kenan@almalasers.co.il.alma,AlmaTP6509!,0055d00000DrfHTAAZ,Anat,Kenan,Anat Kenan,anat.kenan@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-itay_me@almalasers.co.il.alma,AlmaVG4289!,0055d00000DrfHUAAZ,Itay,M,Itay M,itay_me@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-lior+1@almalasers.co.il.alma,AlmaLU2865!,0055d00000DrfHWAAZ,Lior+!,Dayan,Lior+! Dayan,lior+1@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-alon.efrat@sisram-medical.com.alma,AlmaJR7576!,0055d00000DrfHbAAJ,Alon,Efrat,Alon Efrat,alon.efrat@sisram-medical.com,"Alma Lasers , Inc.",TRUE
-dorony@almalasers.co.il.alma,AlmaET6625!,0055d00000DrfHcAAJ,Doron,Y,Doron Y,dorony@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-holly.duron@almalasers.com,AlmaTE7066!,0055d00000DriZTAAZ,Holly,Duron,Holly Duron,holly.duron@almalasers.com,"Alma Lasers , Inc.",TRUE
-hannah.cohen@almalasers.com,AlmaYH4236!,0055d00000Drib0AAB,Hannah Clare,Cohen,Hannah Clare Cohen,hannah.cohen@almalasers.com,"Alma Lasers , Inc.",TRUE
-leah.merville@almalasers.com,AlmaYR5617!,0055d00000DrjkDAAR,Leah,Merville,Leah Merville,leah.merville@almalasers.com,"Alma Lasers , Inc.",FALSE
-josh.alwran@almalasers.com,AlmaCU8687!,0055d00000E1Id5AAF,Josh,Alwran,Josh Alwran,josh.alwran@almalasers.com,"Alma Lasers , Inc.",FALSE
-joe.medina@almalasers.com,AlmaHK6038!,0055d00000E1IeNAAV,Joe,Medina,Joe Medina,joe.medina@almalasers.com,"Alma Lasers , Inc.",TRUE
-zach.nitzkin@almalasers.com,AlmaGI7253!,0055d00000E1Q3KAAV,Zach,Nitzkin,Zach Nitzkin,zach.nitzkin@almalasers.com,"Alma Lasers , Inc.",FALSE
-tanner.leggett@almalasers.com,AlmaIG9699!,0055d00000E1RACAA3,Tanner,Leggett,Tanner Leggett,tanner.leggett@almalasers.com,"Alma Lasers , Inc.",FALSE
-francesca.hernandez@almalasers.com,AlmaHD7006!,0055d00000E1RAMAA3,Francesca,Hernandez,Francesca Hernandez,francesca.hernandez@almalasers.com,"Alma Lasers , Inc.",FALSE
-yaelimarkovitz+1@gmail.com.alma,AlmaFH1299!,0055d00000E1ST5AAN,Test,Buyer,Test Buyer,yaelimarkovitz+1@gmail.com,"Alma Lasers , Inc.",TRUE
-michael.hoyt@almalasers.com,AlmaWP7311!,0055d00000E1TodAAF,Michael,Hoyt,Michael Hoyt,michael.hoyt@almalasers.com,"Alma Lasers , Inc.",FALSE
-drew.abernethy@almalasers.com,AlmaEL6725!,0055d00000E1ToiAAF,Drew,Abernethy,Drew Abernethy,drew.abernethy@almalasers.com,"Alma Lasers , Inc.",TRUE
-amirkratz.alma+43@gmail.com,AlmaZB4715!,0055d00000EIiUDAA1,QAT,Test,QAT Test,amirkratz.alma+43@gmail.com,"Alma Lasers , Inc.",TRUE
-amirkratz@gmail.com,AlmaID2396!,0055d00000EIkoFAAT,Amir,Kratz,Amir Kratz,amirkratz.alma@gmail.com,"Alma Lasers , Inc.",TRUE
-amirkratz.alma+1@gmail.com,AlmaSR8171!,0055d00000EIkr9AAD,restt,cad,restt cad,amirkratz.alma+1@gmail.com,"Alma Lasers , Inc.",TRUE
-sharynalmalasers@gmail.com,AlmaFU1899!,0055d00000EIku8AAD,Sharyn,Qureshi Buyer Account,Sharyn Qureshi Buyer Account,sharynalmalasers@gmail.com,"Alma Lasers , Inc.",TRUE
-tblevs24@gmail.com,AlmaIG9570!,0055d00000EIkv1AAD,Taylor,Blevins,Taylor Blevins,tblevs24@gmail.com,"Alma Lasers , Inc.",TRUE
-lisaunguyen@gmail.com,AlmaOI7986!,0055d00000EIkv6AAD,Lisa,Nguyen,Lisa Nguyen,lisaunguyen@gmail.com,"Alma Lasers , Inc.",TRUE
-themonsterghosts@gmail.com,AlmaZA4893!,0055d00000EIkvGAAT,Bunny,Parker,Bunny Parker,themonsterghosts@gmail.com,"Alma Lasers , Inc.",TRUE
-jorden.backman@almalasers.com,AlmaIW5256!,0055d00000EIkyyAAD,Jorden,Backman,Jorden Backman,jorden.backman@almalasers.com,"Alma Lasers , Inc.",TRUE
-benson.rhees@almalasers.com,AlmaNU8832!,0055d00000EIl2lAAD,Benson,Rhees,Benson Rhees,benson.rhees@almalasers.com,"Alma Lasers , Inc.",TRUE
-sfarheen@salesforce.com,AlmaEK1634!,0055d00000EIlHWAA1,Shaik,Farheen,Shaik Farheen,sfarheen@salesforce.com,"Alma Lasers , Inc.",TRUE
-brad.raybourn@almalasers.com,AlmaBP6547!,0055d00000EIlXFAA1,Brad,Raybourn,Brad Raybourn,brad.raybourn@almalasers.com,"Alma Lasers , Inc.",TRUE
-fham@almalasers.com,AlmaNK6890!,0055d00000EIldSAAT,Francesca,Ham,Francesca Ham,fham@almalasers.com,"Alma Lasers , Inc.",TRUE
-oleg.lavrov@almalasers.com,AlmaLH7773!,0055d00000EIsAXAA1,Oleg,Lavrov,Oleg Lavrov,oleg.lavrov@almalasers.com,"Alma Lasers , Inc.",TRUE
-domwatson35@gmail.com,AlmaHT8516!,0055d00000EIsE5AAL,Buyer Account Dom,Watson,Buyer Account Dom Watson,domwatson35@gmail.com,"Alma Lasers , Inc.",TRUE
-waltmirejessica@gmail.com,AlmaYM3775!,0055d00000EIsFcAAL,Jessica,Waltmire Buyer Account,Jessica Waltmire Buyer Account,waltmirejessica@gmail.com,"Alma Lasers , Inc.",TRUE
-anna@naturalstateaesthetics.com.alma,AlmaTA9934!,0055d00000EIsH9AAL,Anna,Breard,Anna Breard,anna@naturalstateaesthetics.com,"Alma Lasers , Inc.",TRUE
-katie@vixenaesthetics.com.alma,AlmaGZ9169!,0055d00000EItiGAAT,Katie,Oddo,Katie Oddo,katie@vixenaesthetics.com,"Alma Lasers , Inc.",TRUE
-lydiapage11@gmail.com,AlmaDI5750!,0055d00000EIucEAAT,Lydia,Page,Lydia Page,lydiapage11@gmail.com,"Alma Lasers , Inc.",TRUE
-felicia.reyna@almalasers.com,AlmaJK1014!,0055d00000EJ1IzAAL,Felicia,Reyna,Felicia Reyna,felicia.reyna@almalasers.com,"Alma Lasers , Inc.",TRUE
-caitlyn.warrington@almalasers.com,AlmaVC4134!,0055d00000EJBcGAAX,Caitlyn,Warrington,Caitlyn Warrington,caitlyn.warrington@almalasers.com,"Alma Lasers , Inc.",TRUE
-chris.otto@almalasers.com,AlmaMX7580!,0055d00000EJFfsAAH,Chris,Otto,Chris Otto,chris.otto@almalasers.com,"Alma Lasers , Inc.",TRUE
-scott.rosenblatt@almalasers.com,AlmaLQ9690!,0055d00000EJFmKAAX,Scott,Rosenblatt,Scott Rosenblatt,scott.rosenblatt@almalasers.com,"Alma Lasers , Inc.",TRUE
-cameron.schlenker@almalasers.com,AlmaRU4848!,0055d00000EJFmPAAX,Cameron,Schlenker,Cameron Schlenker,cameron.schlenker@almalasers.com,"Alma Lasers , Inc.",TRUE
-jack.cardew@almalasers.com,AlmaXO3167!,0055d00000EJFmUAAX,Jack,Cardew,Jack Cardew,jack.cardew@almalasers.com,"Alma Lasers , Inc.",TRUE
-drfardadf@gmail.com.alma,AlmaZU2474!,0055d00000EJGDQAA5,fardad,forouzanpour,fardad forouzanpour,drfardadf@gmail.com,"Alma Lasers , Inc.",TRUE
-bhsmc26@gmail.com.alma,AlmaBT2306!,0055d00000EJGDVAA5,fardad,forouzanpour,fardad forouzanpour,bhsmc26@gmail.com,"Alma Lasers , Inc.",TRUE
-alan.greer+1@almalasers.com,AlmaCP4245!,0055d00000EJI6RAAX,Alan,Greer Buyer Account,Alan Greer Buyer Account,alan.greer+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-louise.godoy+1@almalasers.com,AlmaYV6935!,0055d00000EJIOkAAP,Louise buyer Account,Godoy Buyer Account,Louise buyer Account Godoy Buyer Account,louise.godoy+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-brian.mcmahon+1@almalasers.com,AlmaRQ2656!,0055d00000EJITzAAP,Brian,McMahon buyer account,Brian McMahon buyer account,brian.mcmahon+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashley.ramos+1@almalasers.com,AlmaHW7947!,0055d00000EJIU4AAP,Ashley,Ramos Buyer Account,Ashley Ramos Buyer Account,ashley.ramos+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-sam.lindgren@almalasers.com,AlmaYJ1722!,0055d00000EJIYaAAP,Sam,Lindgren,Sam Lindgren,sam.lindgren@almalasers.com,"Alma Lasers , Inc.",TRUE
-hunter.miller@almalasers.com,AlmaHB9661!,0055d00000EJImSAAX,Hunter,Miller,Hunter Miller,hunter.miller@almalasers.com,"Alma Lasers , Inc.",TRUE
-luciano.lombardi@almalasers.com,AlmaSL1797!,0055d00000EJImXAAX,Luciano,Lombardi,Luciano Lombardi,luciano.lombardi@almalasers.com,"Alma Lasers , Inc.",TRUE
-reilly.hawkins@almalasers.com,AlmaYS8966!,0055d00000EJImcAAH,Reilly,Hawkins,Reilly Hawkins,reilly.hawkins@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashley.bailey@almalasers.com,AlmaRL5496!,0055d00000EJQZbAAP,Ashley,Bailey,Ashley Bailey,ashley.bailey@almalasers.com,"Alma Lasers , Inc.",TRUE
-laura.miltz+1@almalasers.com,AlmaUJ1559!,0055d00000EJRDqAAP,Laura,Miltz BUYER ACCOUNT,Laura Miltz BUYER ACCOUNT,laura.miltz+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-jrivera-montejo@almalasers.com,AlmaRH7211!,0055d00000EJREAAA5,Jessica,Rivera-Montejo,Jessica Rivera-Montejo,jrivera-montejo@almalasers.com,"Alma Lasers , Inc.",TRUE
-alyssa.castillo@almalasers.com,AlmaGZ9261!,0055d00000EJREFAA5,Alyssa,Castillo,Alyssa Castillo,alyssa.castillo@almalasers.com,"Alma Lasers , Inc.",TRUE
-michelle.rios@almalasers.com,AlmaKP2108!,0055d00000EJREKAA5,Michelle,Rios-Gieske,Michelle Rios-Gieske,michelle.rios@almalasers.com,"Alma Lasers , Inc.",TRUE
-katie.costantino+1@almalasers.com,AlmaXQ3625!,0055d00000EJRPSAA5,Katie,Costantino BUYER ACCOUNT,Katie Costantino BUYER ACCOUNT,katie.costantino+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-jayne.olson+1@almalasers.com,AlmaBW4059!,0055d00000EJRPXAA5,Jayne,Olson BUYER ACCOUNT,Jayne Olson BUYER ACCOUNT,jayne.olson+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-aanu.ogedengbe+1@almalasers.com,AlmaVH4288!,0055d00000EJRTtAAP,Aanu,Ogedengbe BUYER ACCOUNT,Aanu Ogedengbe BUYER ACCOUNT,aanu.ogedengbe+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-rachel.boden+1@almalasers.com,AlmaYJ6553!,0055d00000EJRTyAAP,Rachel,Boden BUYER ACCOUNT,Rachel Boden BUYER ACCOUNT,rachel.boden+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-brianna.bitout+1@almalasers.com,AlmaET6335!,0055d00000EJRU3AAP,Brianna,Bitout Buyer Account,Brianna Bitout Buyer Account,brianna.bitout+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-caitlin.clementson+1@almalasers.com,AlmaOV2015!,0055d00000EJRUrAAP,Caitlin,Clementson Buyer Account,Caitlin Clementson Buyer Account,caitlin.clementson+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-leslie.blanche+1@almalasers.com,AlmaCM2209!,0055d00000EJRVLAA5,Leslie,Blanche Buyer Account,Leslie Blanche Buyer Account,leslie.blanche+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashley.bailey+1@almalasers.com,AlmaLY8018!,0055d00000EJRXqAAP,Ashley,Bailey Buyer Account,Ashley Bailey Buyer Account,ashley.bailey+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-katrina.wilhelm+1@almalasers.com,AlmaDF1928!,0055d00000EJRXvAAP,Katrina,Wilhelm Buyer Account,Katrina Wilhelm Buyer Account,katrina.wilhelm+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-fela101203@gmail.com.alma,AlmaOP3795!,0055d00000EJRfpAAH,Felicia,Reyna,Felicia Reyna,fela101203@gmail.com,"Alma Lasers , Inc.",TRUE
-ty.snow@almalasers.com,AlmaIE2201!,0055d00000EJRg9AAH,Ty,Snow,Ty Snow,ty.snow@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashley.kim+1@almalasers.com,AlmaFV3898!,0055d00000EJRuaAAH,Ashley,Kim Buyer Account,Ashley Kim Buyer Account,ashley.kim+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-tim.gaumer+1@almalasers.com,AlmaFY3567!,0055d00000EJRufAAH,Tim,Gaumer Buyer Account,Tim Gaumer Buyer Account,tim.gaumer+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-jessica.rivera-montejo+1@almalasers.com,AlmaPG9275!,0055d00000EJRvnAAH,Jessica,Rivera-Montejo Buyer Account,Jessica Rivera-Montejo Buyer Account,jessica.rivera-montejo+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-tim.ferraz+1@almalasers.com,AlmaJK8717!,0055d00000EJS0sAAH,Tim,Ferraz Buyer Account,Tim Ferraz Buyer Account,tim.ferraz+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-alex.baldwin@almalasers.com,AlmaIW5868!,0055d00000EJSDIAA5,Alex,Baldwin,Alex Baldwin,alex.baldwin@almalasers.com,"Alma Lasers , Inc.",TRUE
-grant.matzel@almalasers.com,AlmaEV9102!,0055d00000EJSDSAA5,Grant,Matzel,Grant Matzel,grant.matzel@almalasers.com,"Alma Lasers , Inc.",TRUE
-jamal.brooks@almalasers.com,AlmaSG7288!,0055d00000EMV4AAAX,Jamal,Brooks,Jamal Brooks,jamal.brooks@almalasers.com,"Alma Lasers , Inc.",TRUE
-andrew.zucker@almalasers.com,AlmaUJ1293!,0055d00000EMV4FAAX,Andrew,Zucker,Andrew Zucker,andrew.zucker@almalasers.com,"Alma Lasers , Inc.",TRUE
-matt.burelle@almalasers.com,AlmaVI3002!,0055d00000EMV4yAAH,Matt,Burelle,Matt Burelle,matt.burelle@almalasers.com,"Alma Lasers , Inc.",TRUE
-greg.baker@almalasers.com,AlmaMM2412!,0055d00000EMV58AAH,Greg,Baker,Greg Baker,greg.baker@almalasers.com,"Alma Lasers , Inc.",FALSE
-andrew.ferkol@almalasers.com,AlmaZL8903!,0055d00000EMV5DAAX,Andrew,Ferkol,Andrew Ferkol,andrew.ferkol@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.zozulia+2@almalasers.com,AlmaNE2677!,0055d00000EMVCEAA5,Unassigned,ABD,Unassigned ABD,michael.zozulia+2@almalasers.com,"Alma Lasers , Inc.",TRUE
-shannon.hunter@almalasers.com,AlmaSN1463!,0055d00000EMZ0MAAX,Shannon,Hunter,Shannon Hunter,shannon.hunter@almalasers.com,"Alma Lasers , Inc.",FALSE
-rezioni@gmail.com.alma,AlmaSZ6914!,0055d00000EMZkPAAX,Ran,Ezioni,Ran Ezioni,rezioni@gmail.com,"Alma Lasers , Inc.",TRUE
-mandy.carmon@almalasers.com,AlmaUL1284!,0055d00000EMce0AAD,Amanda,Carmon,Amanda Carmon,amanda.carmon@almalasers.com,"Alma Lasers , Inc.",FALSE
-ashley.kim@almalasers.com,AlmaSP3302!,0055d00000EMce5AAD,Ashley,Kim,Ashley Kim,ashley.kim@almalasers.com,"Alma Lasers , Inc.",TRUE
-launa.shea@almalasers.com,AlmaYV4936!,0055d00000EMj3fAAD,Launa,Shea,Launa Shea,launa.shea@almalasers.com,"Alma Lasers , Inc.",FALSE
-mary.callahan@almalasers.com,AlmaXZ8594!,0055d00000EMmwJAAT,Mary,Callahan,Mary Callahan,mary.callahan@almalasers.com,"Alma Lasers , Inc.",TRUE
-hatem.zubaidi@almalasers.com,AlmaRJ9965!,0055d00000EMrInAAL,Hatem,Zubaidi,Hatem Zubaidi,hatem.zubaidi@almalasers.com,"Alma Lasers , Inc.",TRUE
-s0527108826@gmail.com.alma,AlmaTH6025!,0055d00000EMuewAAD,Test,CBD,Test CBD,s0527108826@gmail.com,"Alma Lasers , Inc.",TRUE
-amirkratz.alma@gmail.com,AlmaET6090!,0055d00000EN41uAAD,Test,Commerce QA Scripts,Test Commerce QA Scripts,amirkratz.alma@gmail.com,"Alma Lasers , Inc.",FALSE
-amirkratz@gmail.com.alma,AlmaZG4708!,0055d00000EN4NgAAL,Test s,Self-R Commerce QA Scripts,Test s Self-R Commerce QA Scripts,amirkratz@gmail.com,"Alma Lasers , Inc.",TRUE
-emmanuel.nunez@almalasers.com,AlmaFK9661!,0055d00000EN53cAAD,Emmanuel,Nunez,Emmanuel Nunez,emmanuel.nunez@almalasers.com,"Alma Lasers , Inc.",TRUE
-amirkratz.almalasers+2@gmail.com,AlmaGS5496!,0055d00000EN5esAAD,Test,Ecommerce From Lead,Test Ecommerce From Lead,amirkratz.almalasers+2@gmail.com,"Alma Lasers , Inc.",FALSE
-tatyana.solodkin@almalasers.co.il.alma,AlmaFN3323!,0055d00000ENAQMAA5,Tanya,Solodkin,Tanya Solodkin,tatyana.solodkin@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-reut.feldschuh@sisram-medical.com.alma,AlmaHB8925!,0055d00000ENAQNAA5,Reut,Feldshchuh,Reut Feldshchuh,reut.feldschuh@sisram-medical.com,"Alma Lasers , Inc.",TRUE
-yuli.netanel@almalasers.co.il.alma,AlmaQJ6661!,0055d00000ENAQRAA5,Yuli,Netanel,Yuli Netanel,yuli.netanel@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-victoria.raz@almalasers.co.il.alma,AlmaQQ9778!,0055d00000ENAQSAA5,Victoria,Raz,Victoria Raz,victoria.raz@almalasers.co.il,"Alma Lasers , Inc.",TRUE
-sinet.chowdhury@salesforce.com.alma,AlmaHW2260!,0055d00000ENBT7AAP,Sinet,chowdhury,Sinet chowdhury,sinet.chowdhury@salesforce.com,"Alma Lasers , Inc.",TRUE
-jessica.lerner@almalasers.com,AlmaOD5875!,0055d00000ENBZZAA5,Jessica,Lerner,Jessica Lerner,jessica.lerner@almalasers.com,"Alma Lasers , Inc.",TRUE
-michael.sylvester@almalasers.com,AlmaMR5554!,0055d00000ENGHGAA5,Michael,Sylvester,Michael Sylvester,michael.sylvester@almalasers.com,"Alma Lasers , Inc.",TRUE
-dorit.aizen+2@gmail.com,AlmaRI1884!,005Ua000002Dy0VIAS,Dorit,Aizenberg Buyer Account2,Dorit Aizenberg Buyer Account2,dorit.aizen+2@gmail.com,"Alma Lasers , Inc.",TRUE
-ashley.bailey+2@almalasers.com,AlmaOB8870!,005Ua000002MnDpIAK,Ashley,Bailey Buyer Account 2,Ashley Bailey Buyer Account 2,ashley.bailey+2@almalasers.com,"Alma Lasers , Inc.",TRUE
-keith.buro@almalasers.com,AlmaOX3658!,005Ua000002TAhBIAW,Keith,Buro,Keith Buro,keith.buro@almalasers.com,"Alma Lasers , Inc.",TRUE
-testtaxexemption@alma.co.il.alma,AlmaGW6308!,005Ua000002lMn7IAE,test,buyer,test buyer,testtaxexemption@alma.co.il,"Alma Lasers , Inc.",TRUE
-sara.rizvi+1@almalasers.com,AlmaUE8721!,005Ua000002mFjZIAU,Sara,Rizvi2-buyer account,Sara Rizvi2-buyer account,sara.rizvi+1@almalasers.com,"Alma Lasers , Inc.",TRUE
-qa@commtest.com.alma,AlmaIX5850!,005Ua000002o4P4IAI,QA,QA,QA QA,qa@commtest.com,"Alma Lasers , Inc.",TRUE
-lmnt@test.com.alma,AlmaMT7903!,005Ua000002qGh3IAE,test,LMNT,test LMNT,lmnt@test.com,"Alma Lasers , Inc.",TRUE
-test.newcontact@alma.com.alma,AlmaDC5679!,005Ua000002rRP7IAM,Test New,Contact,Test New Contact,test.newcontact@alma.com,"Alma Lasers , Inc.",TRUE
-drew.millican@almalasers.com,AlmaVM9235!,005Ua000002vJWQIA2,Drew,Millican,Drew Millican,drew.millican@almalasers.com,"Alma Lasers , Inc.",FALSE
-stefani.almalasers@outlook.com.alma,AlmaHD1562!,005Ua000002zaOnIAI,Stefani,Anderson,Stefani Anderson,stefani.almalasers@outlook.com,"Alma Lasers , Inc.",TRUE
-office@anantunidental.com.alma,AlmaKL4448!,005Ua0000033U4vIAE,Sandhya,Anantuni,Sandhya Anantuni,office@anantunidental.com,"Alma Lasers , Inc.",TRUE
-emiliano.alaniz@almalasers.com,AlmaCG3958!,005Ua000003Fi0fIAC,Emiliano,Alaniz,Emiliano Alaniz,emiliano.alaniz@almalasers.com,"Alma Lasers , Inc.",TRUE
-ashleybailey843@gmail.com,AlmaRU2914!,005Ua000003IC5pIAG,Ashley Bailey,Buyer Account-2,Ashley Bailey Buyer Account-2,ashleybailey843@gmail.com,"Alma Lasers , Inc.",TRUE
-drjeffreyweiss@gmail.com.alma,AlmaPG2423!,005Ua000003Yt5BIAS,Jeffrey,Weiss,Jeffrey Weiss,drjeffreyweiss@gmail.com,"Alma Lasers , Inc.",TRUE
-y.m.0542115+110@gmail.com.alma,AlmaNB9389!,005Ua000003i1ZpIAI,Test,App,Test App,y.m.0542115+110@gmail.com,"Alma Lasers , Inc.",TRUE
-suzanna.djukic@almalasers.com,AlmaNG1963!,005Ua000003ifP7IAI,Suzanna,Djukic,Suzanna Djukic,suzanna.djukic@almalasers.com,"Alma Lasers , Inc.",TRUE
-patrick.sheehan@almalasers.com,AlmaNO7875!,005Ua000003q9yLIAQ,Patrick,Sheehan,Patrick Sheehan,patrick.sheehan@almalasers.com,"Alma Lasers , Inc.",TRUE
-almalaserscustomerportal@gmail.com,AlmaKT5703!,005Ua000003r9t3IAA,Apple,Alma Customer Portal,Apple Alma Customer Portal,almalaserscustomerportal@gmail.com,"Alma Lasers , Inc.",TRUE
-santasouth2013@gmail.com.alma,AlmaTT7194!,005Ua000003tzifIAA,test,test,test test,santasouth2013@gmail.com,"Alma Lasers , Inc.",TRUE
-admin@myallurespa.com.alma,AlmaWV2498!,005Ua000003uuH7IAI,Marilisa,Ibarra,Marilisa Ibarra,admin@myallurespa.com,"Alma Lasers , Inc.",TRUE
-alan.greer@almalasers.com,AlmaOF6782!,005i0000002BP9IAAW,Alan,Greer,Alan Greer,alan.greer@almalasers.com,"Alma Lasers , Inc.",TRUE
-sara.rizvi@almalasers.com,AlmaSH5083!,005i0000002aLpDAAU,Sara,Rizvi,Sara Rizvi,sara.rizvi@almalasers.com,"Alma Lasers , Inc.",TRUE
-jason.carpenter@almalasers.com,AlmaDH1212!,005i0000002aO0UAAU,Jason,Carpenter,Jason Carpenter,jason.carpenter@almalasers.com,"Alma Lasers , Inc.",TRUE
-everett.parkins@almalasers.com,AlmaDG8410!,005i0000002aO1hAAE,Everett,Parkins,Everett Parkins,everett.parkins@almalasers.com,"Alma Lasers , Inc.",TRUE
-nezaliluis@gmail.com,AlmaGV8373!,005i0000002aO1wAAE,Nezih,Akkor,Nezih Akkor,nezaliluis@gmail.com,"Alma Lasers , Inc.",TRUE
-david.heddon@almalasers.com,AlmaRT5242!,005i0000002aPeBAAU,David,Heddon,David Heddon,david.heddon@almalasers.com,"Alma Lasers , Inc.",TRUE
-avi.farbstein@almalasers.com,AlmaAB3368!,005i0000002aPlTAAU,Avi,Farbstein,Avi Farbstein,avi.farbstein@almalasers.com,"Alma Lasers , Inc.",TRUE
-francesca.ham@almalasers.com,AlmaOQ2115!,005i0000002aPmbAAE,Marketing,Admin,Marketing Admin,francesca.ham@almalasers.com,"Alma Lasers , Inc.",TRUE
-justin.levy@almalasers.com,AlmaCC5703!,005i0000002bLQ6AAM,Justin,Levy,Justin Levy,justin.levy@almalasers.com,"Alma Lasers , Inc.",TRUE
-jason.mcclain@almalasers.com,AlmaRI5514!,005i0000002cGtVAAU,Jason,McClain,Jason McClain,jason.mcclain@almalasers.com,"Alma Lasers , Inc.",TRUE
-leslie.blanche@almalasers.com,AlmaFI2714!,005i0000006qjPKAAY,Leslie,Blanche,Leslie Blanche,leslie.blanche@almalasers.com,"Alma Lasers , Inc.",TRUE
+﻿username,password,salesforce_id,first_name,last_name,full_name,email,subsidiary,is_active,userterritory_id,territory_id,role_in_territory,territory_name
+jason.reszitnyk@almalasers.com,AlmaEB2880!,0051Y000009IR6jQAG,Jason,Reszitnyk,Jason Reszitnyk,jason.reszitnyk@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000GpRtSAK,0MI1Y000000fxcQWAQ,ASM,NY-Manhattan
+dani.grinter@almalasers.com,AlmaHB6521!,0051Y000009K50EQAS,Dani,Grinter,Dani Grinter,dani.grinter@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wli5CAA,0MI5d000000sYwHGAU,Sales Coordinator,North America
+caitlin.farrell@almalasers.com,AlmaCO6755!,0051Y000009KQIEQA4,Caitlin,Farrell,Caitlin Farrell,caitlin.farrell@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+kathy.hu@almalasers.com,AlmaBV7793!,0051Y000009KSTiQAO,Kathy,Hu,Kathy Hu,kathy.hu@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000kAXnSAM,0MI1Y000000fxbXWAQ,TM,SoCal
+scott.karten@almalasers.com,AlmaHD9125!,0051Y000009LEb1QAG,Scott,Karten,Scott Karten,scott.karten@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+drew.lasky@almalasers.com,AlmaWJ3927!,0051Y000009LbqOQAS,Drew,Lasky,Drew Lasky,drew.lasky@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000GpRySAK,0MI1Y000000fxbrWAA,ASM,South Florida
+keith.adams@almalasers.com,AlmaZE5349!,0051Y000009VAHQQA4,Keith,Adams,Keith Adams,keith.adams@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlhyCAA,0MI5d000000sYwHGAU,RSD,North America
+spencer.detter@almalasers.com,AlmaJY9560!,0051Y000009VAHVQA4,Spencer,Detter,Spencer Detter,spencer.detter@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlhxCAA,0MI5d000000sYwHGAU,RSD,North America
+jason.grisnik@almalasers.com,AlmaEF4208!,0051Y000009VEJaQAO,Jason,Grisnik,Jason Grisnik,jason.grisnik@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+lewis.vincent@almalasers.com,AlmaOS1227!,0051Y000009VHkAQAW,Lewis,Vincent,Lewis Vincent,lewis.vincent@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlcqCAA,0MI5d000000sYr7GAE,RSD,West Region
+nick.quacquarini@almalasers.com,AlmaUM2031!,0051Y000009VICYQA4,Nick,Quacquarini,Nick Quacquarini,nick.quacquarini@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyCdSAI,0MI1Y000000fxc6WAA,ASM,DE NJ PA
+mark.tiede@almalasers.com,AlmaOJ5826!,0051Y000009VIf1QAG,Mark,Tiede,Mark Tiede,mark.tiede@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyCsSAI,0MI1Y000000fxcLWAQ,ASM,New England
+nick.brown@almalasers.com,AlmaJH2810!,0051Y000009VIf6QAG,Nick,Brown,Nick Brown,nick.brown@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyBFSAY,0MI1Y000000fxajWAA,Sales Director,East
+caitlin.mcgraw@almalasers.com,AlmaAX6889!,0051Y000009VMfyQAG,Caitlin,McGraw,Caitlin McGraw,caitlin.mcgraw@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlceCAA,0MI5d000000sYtwGAE,TM,East - US - North Florida
+richard.eckel@almalasers.com,AlmaAR8355!,0051Y000009VMgmQAG,Richard,Eckel,Richard Eckel,richard.eckel@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyCiSAI,0MI1Y000000fxcBWAQ,ASM,QC NB NS PE NL
+tony.vittal@almalasers.com,AlmaCD9155!,0051Y000009VMtMQAW,Tony,Vittal,Tony Vittal,tony.vittal@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Cc4ZCAS,0MI1Y000000fxcQWAQ,ASM,NY-Manhattan
+brad.harris@almalasers.com,AlmaWL7365!,0051Y000009VMtWQAW,Brad,Harris,Brad Harris,brad.harris@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000GpM0SAK,0MI1Y000000fxcfWAA,ASM,IA MN WI
+thanh.tan@almalasers.com,AlmaSH9630!,0051Y000009bPBxQAM,Thanh,Tan,Thanh Tan,thanh.tan@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000kAPySAM,0MI1Y000000fxdOWAQ,TM,OK North TX
+clint.jones@almalasers.com,AlmaBG3941!,0051Y000009bPC7QAM,Clint,Jones,Clint Jones,clint.jones@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000L0eESAS,0MI1Y000000fxc1WAA,ASM,AL GA
+nick.jackson@almalasers.com,AlmaCI2878!,0051Y000009bZUQQA2,Nick,Jackson,Nick Jackson,nick.jackson@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TxXCAU,0MI1Y000000fxbrWAA,ASM,South Florida
+jesse.hiatt@almalasers.com,AlmaLE6751!,0051Y000009beRvQAI,Jesse,Hiatt,Jesse Hiatt,jesse.hiatt@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000L0hISAS,0MI1Y000000fxbIWAQ,ASM,AZ NM South NV
+cory.chase@almalasers.com,AlmaDO9453!,0051Y000009hymNQAQ,Cory,Chase,Cory Chase,cory.chase@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y0000004DsDSAU,0MI1Y000000fxbNWAQ,ASM,UT WY ID(S)
+tim.flood@almalasers.com,AlmaEX7131!,0051Y000009i2PIQAY,Tim,Flood,Tim Flood,tim.flood@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbmQCAS,0MI5d000000sYu6GAE,TM,East - US - NC SC
+tim.gaumer@almalasers.com,AlmaKP8533!,0051Y000009s1JiQAI,Tim,Gaumer,Tim Gaumer,tim.gaumer@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+trevor.randolph@almalasers.com,AlmaLB7156!,0051Y000009ucJPQAY,Trevor,Randolph,Trevor Randolph,trevor.randolph@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyBtSAI,0MI1Y000000fxbNWAQ,ASM,UT WY ID(S)
+kevin.notte@almalasers.com,AlmaEN2833!,0051Y000009vzOyQAI,Kevin,Notte,Kevin Notte,kevin.notte@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyCYSAY,0MI1Y000000fxbwWAA,TM,Carolinas
+terry.baldree@almalasers.com,AlmaBH4516!,0051Y00000AB0gjQAD,Terry,Baldree,Terry Baldree,terry.baldree@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000bn2mSAA,0MI1Y000000fxc1WAA,TM,AL GA
+ashley.williams@almalasers.com,AlmaKA3090!,0051Y00000AB5ShQAL,Ashley,Williams,Ashley Williams,ashley.williams@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000GpM5SAK,0MI1Y000000fxbmWAA,TM,North Florida
+erin.henry@almalasers.com,AlmaCP3341!,0051Y00000Agcy4QAB,Erin,Henry,Erin Henry,erin.henry@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y0000008SUvSAM,0MI1Y000000fxd9WAA,ASM,IL(N) IN
+giovanni.distefano@almalasers.com,AlmaNB4449!,0051Y00000Agcy9QAB,Giovanni,DiStefano,Giovanni DiStefano,giovanni.distefano@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y0000008SUwSAM,0MI1Y000000fxd9WAA,TM,IL(N) IN
+david.forrestal@almalasers.com,AlmaPY7447!,0051Y00000AqNfRQAV,David,Forrestal,David Forrestal,david.forrestal@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000Xb8uSAC,0MI1Y000000fxbcWAA,ASM,NorCal
+jay.wehrenberg@almalasers.com,AlmaJP9235!,0051Y00000AqVhGQAV,Jay,Wehrenberg,Jay Wehrenberg,jay.wehrenberg@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000Xb9JSAS,0MI1Y000000fxcaWAA,ASM,NY-Upstate
+scott.hill@almalasers.com,AlmaVT1073!,0051Y00000B3pemQAB,Scott,Hill,Scott Hill,scott.hill@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000GpKdSAK,0MI1Y000000fxcGWAQ,ASM,DC MD VA(E)
+rebecca.hammermeister@almalasers.com,AlmaJX6089!,0051Y00000B4AEBQA3,Rebecca,Hammermeister,Rebecca Hammermeister,rebecca.hammermeister@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000GpLvSAK,0MI1Y000000fxd4WAA,ASM,MI OH
+john.elliott@almalasers.com@almalasers.com,AlmaHE3394!,0051Y00000B5GT9QAN,John,Elliott,John Elliott,john.elliott@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000GpLgSAK,0MI1Y000000fxbNWAQ,ASM,UT WY ID(S)
+andrew.hack@almalasers.com,AlmaRI1106!,0051Y00000B5GnsQAF,Andrew,Hack,Andrew Hack,andrew.hack@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wld1CAA,0MI5d000000sYtrGAE,ASM Aesthetic,East - US - ME NH VT MA RI CT (East)
+kristina.clark@almalasers.com,AlmaZB3684!,0051Y00000B5UOwQAN,Kristina,Clark,Kristina Clark,kristina.clark@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TvMCAU,0MI1Y000000fxbIWAQ,ACE-RSM,AZ NM South NV
+mary.polus@almalasers.com,AlmaIE7931!,0051Y00000B6dbSQAR,Mary,Polus,Mary Polus,mary.polus@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+bob.iero@almalasers.com,AlmaRX7773!,0051Y00000BIJ02QAH,Bob,Iero,Bob Iero,bob.iero@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000CbrpSAC,0MI1Y000000fxc6WAA,ASM,DE NJ PA
+michael.iero@almalasers.com,AlmaQQ8441!,0051Y00000BIJ4xQAH,Michael,Iero,Michael Iero,michael.iero@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wld6CAA,0MI5d000000sYtmGAE,ASM Aesthetic,East - US - PA NJ DE
+sharyn.qureshi@almalasers.com,AlmaBJ5325!,0051Y00000BIkBqQAL,Sharyn,Qureshi,Sharyn Qureshi,sharyn.qureshi@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TvqCAE,0MI1Y000000fxc1WAA,ACE-RSM,AL GA
+louise.godoy@almalasers.com,AlmaHW8463!,0051Y00000BdYlEQAV,Louise,Godoy,Louise Godoy,louise.godoy@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+mike.mccurry@almalasers.com,AlmaSJ9384!,0055d00000BqHNjAAN,Mike,McCurry,Mike McCurry,mike.mccurry@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlk3CAA,0MI5d000000sYtmGAE,TM,East - US - PA NJ DE
+andres.arce@almalasers.com,AlmaXP2310!,0055d00000BqLkSAAV,Andres,Arce,Andres Arce,andres.arce@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wljKCAQ,0MI5d000000sYuzGAE,Inside Sales,West - US - MN WI IA
+chris.patz@almalasers.com,AlmaBS9141!,0055d00000BqUbPAAV,Chris,Patz,Chris Patz,chris.patz@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000004FlcCAE,0MI1Y000000fxbXWAQ,ASM,SoCal
+laura.miltz@almalasers.com,AlmaPM3147!,0055d00000BqX5vAAF,Laura,Miltz,Laura Miltz,laura.miltz@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+alan.motz@almalasers.com,AlmaYH4945!,0055d00000Bqlp4AAB,Alan,Motz,Alan Motz,alan.motz@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+yury.sukhavitski@almalasers.com,AlmaXW5275!,0055d00000Bqlp9AAB,Yury,Sukhavitski,Yury Sukhavitski,yury.sukhavitski@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+luis.malpique@almalasers.com,AlmaNJ7025!,0055d00000BqlpEAAR,Luis,Malpique,Luis Malpique,luis.malpique@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jedediah.bredsguard@almalasers.com,AlmaGW6240!,0055d00000BqnHsAAJ,Jedediah,Bredsguard,Jedediah Bredsguard,jedediah.bredsguard@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000004Fm1CAE,0MI1Y000000fxbIWAQ,TM,AZ NM South NV
+esther.szabo@almalasers.com,AlmaOI3320!,0055d00000BqsPmAAJ,Esther,Szabo,Esther Szabo,esther.szabo@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbnxCAC,0MI5d000000sYuBGAU,TM,East - US - IL (North) IN
+larry.spiewak@almalasers.com,AlmaAU7060!,0055d00000BqxdyAAB,Larry,Spiewak,Larry Spiewak,larry.spiewak@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+ronald.roth@almalasers.com,AlmaCS4861!,0055d00000Bqxe3AAB,Ronald,Roth,Ronald Roth,ronald.roth@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+steve.bouton@almalasers.com,AlmaVW8099!,0055d00000Bqxe8AAB,Steve,Bouton,Steve Bouton,steve.bouton@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+henry.rosenberg@almalasers.com,AlmaVC4943!,0055d00000BqxeDAAR,Henry,Rosenberg,Henry Rosenberg,henry.rosenberg@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+calvin.lee@almalasers.com,AlmaJL9687!,0055d00000BugwVAAR,Calvin,Lee,Calvin Lee,calvin.lee@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wldVCAQ,0MI5d000000sYvTGAU,ABD,West - US - LA
+savannah.padron@almalasers.com,AlmaAX7409!,0055d00000BugwaAAB,Savannah,Padron,Savannah Padron,savannah.padron@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000GqGiCAK,0MI1Y000000fxczWAA,ASM,AR MS TN
+chad.sprinkle@almalasers.com,AlmaUP7573!,0055d00000BujUjAAJ,Chad,Sprinkle,Chad Sprinkle,chad.sprinkle@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000boT0CAI,0MI5d000000sYwHGAU,Sales Coordinator,North America
+bunny.parker@almalasers.com,AlmaUN5301!,0055d00000BupBOAAZ,Bunny,Parker,Bunny Parker,bunny.parker@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+lydia.page@almalasers.com,AlmaZJ5989!,0055d00000BupLiAAJ,Lydia,Page,Lydia Page,lydia.page@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jeana.nasca@almalasers.com,AlmaNS7555!,0055d00000BuvPlAAJ,Jeana,Nasca,Jeana Nasca,jeana.nasca@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+megan.murphy@almalasers.com,AlmaNO9330!,0055d00000Bv5IuAAJ,Megan,Murphy,Megan Murphy,megan.murphy@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbmaCAC,0MI5d000000sYu6GAE,TM,East - US - NC SC
+chase.tolusic@almalasers.com,AlmaFY2337!,0055d00000Bv69tAAB,Chase,Tolusic,Chase Tolusic,chase.tolusic@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlfOCAQ,0MI5d000000sYuQGAU,TM,East - US - TN AR MS
+caitlin.clementson@almalasers.com,AlmaAN2700!,0055d00000Bv95pAAB,Caitlin,Clementson,Caitlin Clementson,caitlin.clementson@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000GqHHCA0,0MI1Y000000fxbNWAQ,PS,UT WY ID(S)
+dan.arbuckle@almalasers.com,AlmaZC3459!,0055d00000Bx7NZAAZ,Dan,Arbuckle,Dan Arbuckle,dan.arbuckle@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Cc4FCAS,0MI1Y000000fxcfWAA,ASM,IA MN WI
+harris.rabinowitz@almalasers.com,AlmaYS3929!,0055d00000Bx9afAAB,Harris,Rabinowitz,Harris Rabinowitz,harris.rabinowitz@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Cc4PCAS,0MI1Y000000fxbDWAQ,ASM,ND SD NE CO
+lisa.nguyen@almalasers.com,AlmaYY3731!,0055d00000Bx9cgAAB,Lisa,Nguyen,Lisa Nguyen,lisa.nguyen@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+brittany.lane@almalasers.com,AlmaYD4221!,0055d00000BxDYOAA3,Brittany,Lane,Brittany Lane,brittany.lane@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+sam.girgenti@almalasers.com,AlmaJV4937!,0055d00000BxDz5AAF,Sam,Girgenti,Sam Girgenti,sam.girgenti@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000GqGnCAK,0MI1Y000000fxcVWAQ,ASM,NY-Long Island
+dorit.aizenberg@almalasers.com,AlmaEC8207!,0055d00000BxEpBAAV,Dorit,Aizenberg,Dorit Aizenberg,dorit.aizenberg@almalasers.co.il,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+leslee.boyer@almalasers.com,AlmaNB9097!,0055d00000BxFHFAA3,LesLee,Boyer,LesLee Boyer,leslee.boyer@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Cc53CAC,0MI1Y000000fxbNWAQ,PS,UT WY ID(S)
+kendall.lewis@almalasers.com,AlmaSM8086!,0055d00000BxFveAAF,Kendall,Zuber,Kendall Zuber,kendall.lewis@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Cc5DCAS,0MI1Y000000fxdJWAQ,PS,"TX-Austin,San Antonio"
+jennyfer.aleman@almalasers.com,AlmaEA7976!,0055d00000BxGFFAA3,Jennyfer,Aleman,Jennyfer Aleman,jennyfer.aleman@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+yaelimarkovitz+10@gmail.com.alma,AlmaGV4988!,0055d00000CDk60AAD,test,selfreg,test selfreg,yaelimarkovitz+10@gmail.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jayne.olson@almalasers.com,AlmaMI5666!,0055d00000CDmYzAAL,Jayne,Olson,Jayne Olson,jayne.olson@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlb9CAA,0MI1Y000000fxcfWAA,PS,IA MN WI
+savannah.simpson@almalasers.com,AlmaST4852!,0055d00000CDnRfAAL,Savannah,Simpson,Savannah Simpson,savannah.simpson@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000oMjECAU,0MI1Y000000fxc1WAA,ASM,AL GA
+kevin.mendelson@almalasers.com,AlmaSO8225!,0055d00000CDndMAAT,Kevin,Mendelson,Kevin Mendelson,kevin.mendelson@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlbECAQ,0MI1Y000000fxcVWAQ,PS,NY-Long Island
+adrian.thompson@almalasers.com,AlmaUJ2553!,0055d00000CGCs6AAH,Adrian,Thompson,Adrian Thompson,adrian.thompson@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbmpCAC,0MI5d000000sYvxGAE,ABD,East - US - GA AL
+macee.kelley@almalasers.com,AlmaIR5333!,0055d00000CJglQAAT,Macee,Kelley,Macee Kelley,macee.kelley@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000bnHQCAY,0MI1Y000000fxcpWAA,PS,IL(S) KS MO
+garrett.perdue@almalasers.com,AlmaJQ6889!,0055d00000CRGDOAA5,Garrett,Perdue,Garrett Perdue,garrett.perdue@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000bnI9CAI,0MI1Y000000fxbmWAA,PS,North Florida
+kent.mertens@almalasers.com,AlmaOT1978!,0055d00000Ccb1HAAR,Kent,Mertens,Kent Mertens,kent.mertens@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000L1k0CAC,0MI1Y000000fxbrWAA,ASM,South Florida
+angela.ramirez@almalasers.com,AlmaQG5511!,0055d00000CcbEuAAJ,Angela,Ramirez,Angela Ramirez,angela.ramirez@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+katie.penney@almalasers.com,AlmaEK5832!,0055d00000CcbEzAAJ,Katie,Penney,Katie Penney,katie.penney@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+colin.dawson@almalasers.com,AlmaUP1155!,0055d00000CcboOAAR,Colin,Dawson,Colin Dawson,colin.dawson@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+rosie.mahesparan@almalasers.com,AlmaIY4810!,0055d00000Ccc6cAAB,Rosie,Mahesparan,Rosie Mahesparan,rosie.mahesparan@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000L1kFCAS,0MI1Y000000fxb8WAA,ASM,AM MB SK
+alex.stelter@almalasers.com,AlmaWU1370!,0055d00000CcguqAAB,Alex,Stelter,Alex Stelter,alex.stelter@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000L1kKCAS,0MI1Y000000fxcpWAA,ASM,IL(S) KS MO
+morgan.giuliani@almalasers.com,AlmaHH8020!,0055d00000CcgydAAB,Morgan,Giuliani,Morgan Giuliani,morgan.giuliani@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TuYCAU,0MI1Y000000fxbcWAA,PS,NorCal
+jordana.wouk@almalasers.com,AlmaDR9406!,0055d00000CciqCAAR,Jordana,Wouk,Jordana Wouk,jordana.wouk@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000L1l3CAC,0MI1Y000000fxbDWAQ,PS,ND SD NE CO
+nassim.zeinali@almalasers.com,AlmaVZ6248!,0055d00000CciqMAAR,Nassim,Zeinali,Nassim Zeinali,nassim.zeinali@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000L1l8CAC,0MI1Y000000fxbXWAQ,PS,SoCal
+dominic.watson@almalasers.com,AlmaTC6924!,0055d00000Ccir0AAB,Dominic,Watson,Dominic Watson,dominic.watson@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+melissa.pinkerton@almalasers.com,AlmaTO5564!,0055d00000CjkRRAAZ,Melissa,Pinkerton,Melissa Pinkerton,melissa.pinkerton@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000bnJMCAY,0MI1Y000000fxbSWAQ,PS,OR WA ID(N) AK
+brianna.bitout@almalasers.com,AlmaLT7774!,0055d00000CxDlbAAF,Brianna,Bitout,Brianna Bitout,brianna.bitout@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+joe.esquivel@almalasers.com,AlmaLO8422!,0055d00000CyzULAAZ,Joe,Esquivel,Joe Esquivel,joe.esquivel@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000boSqCAI,0MI5d000000sYwHGAU,Corporate,North America
+megan.bagdon@almalasers.com,AlmaXL3626!,0055d00000Cz350AAB,Megan,Bagdon,Megan Bagdon,megan.bagdon@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TuiCAE,0MI1Y000000fxd4WAA,ACE-RSM,MI OH
+elizabeth.rude@almalasers.com,AlmaOD9336!,0055d00000Cz35UAAR,Elizabeth,Rude,Elizabeth Rude,elizabeth.rude@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbOaCAK,0MI1Y000000fxc6WAA,ACE-PS,DE NJ PA
+adam.cox@almalasers.com,AlmaQJ1655!,0055d00000Cz5R3AAJ,Adam,Cox,Adam Cox,adam.cox@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbOfCAK,0MI1Y000000fxbIWAQ,TM,AZ NM South NV
+kyle.pacheco@almalasers.com,AlmaGO3697!,0055d00000Cz8FKAAZ,Kyle,Pacheco,Kyle Pacheco,kyle.pacheco@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbQRCA0,0MI1Y000000fxbSWAQ,ASM,OR WA ID(N) AK
+amy.ziemer@almalasers.com,AlmaWO1779!,0055d00000Cz9D0AAJ,Amy,Ziemer,Amy Ziemer,amy.ziemer@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbQWCA0,0MI1Y000000fxd4WAA,PS,MI OH
+lindsey.white@almalasers.com,AlmaRA9733!,0055d00000CzB4eAAF,Lindsey,White,Lindsey White,lindsey.white@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TwtCAE,0MI1Y000000fxdJWAQ,ACE-RSM,"TX-Austin,San Antonio"
+savannah.bates@almalasers.com,AlmaYK9744!,0055d00000CzBp6AAF,Savannah,Bates,Savannah Bates,savannah.bates@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbQqCAK,0MI1Y000000fxd4WAA,ASM,MI OH
+rachel.boden@almalasers.com,AlmaKM8932!,0055d00000CzFPMAA3,Rachel,Boden,Rachel Boden,rachel.boden@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+eileen.mckevitt@almalasers.com,AlmaSH6948!,0055d00000CzFbwAAF,Eileen,McKevitt,Eileen McKevitt,eileen.mckevitt@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wli6CAA,0MI5d000000sYwHGAU,Sales Coordinator,North America
+alyssa.falvey@almalasers.com,AlmaJJ8379!,0055d00000CzFc1AAF,Alyssa,Falvey,Alyssa Falvey,alyssa.falvey@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wli2CAA,0MI5d000000sYwHGAU,Sales Coordinator,North America
+meghan.leonard@almalasers.com,AlmaOV8895!,0055d00000CzFz0AAF,Meghan,Leonard,Meghan Leonard,meghan.leonard@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbRUCA0,0MI1Y000000fxdEWAQ,PS,"LA, Houston TX Area"
+jaspin.newell@almalasers.com,AlmaOC2110!,0055d00000CzFzAAAV,Jaspin,Newell,Jaspin Newell,jaspin.newell@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbReCAK,0MI1Y000000fxd9WAA,PS,IL(N) IN
+bridget.dibella@almalasers.com,AlmaWX2705!,0055d00000CzFzFAAV,Bridget,DiBella,Bridget DiBella,bridget.dibella@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbRjCAK,0MI1Y000000fxcLWAQ,PS,New England
+shane.delacruz@almalasers.com,AlmaFS7680!,0055d00000CzGWEAA3,Shane,De La Cruz,Shane De La Cruz,shane.delacruz@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlcvCAA,0MI5d000000sYthGAE,TM,East - US - DC Eastern VA MD
+alma_charles.groce@metzgers.com,AlmaGO3022!,0055d00000CzH2oAAF,eStore,Canada,eStore Canada,charles.groce@metzgers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+tommy.whalen@almalasers.com,AlmaPX7267!,0055d00000CzHnzAAF,Tommy,Whalen,Tommy Whalen,tommy.whalen@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wliMCAQ,0MI5d000000sYviGAE,TM,West - US - AZ NM LV TX (E)
+nate.ryder@almalasers.com,AlmaMA7977!,0055d00000CzMDcAAN,Nate,Ryder,Nate Ryder,nate.ryder@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlh4CAA,0MI5d000000sYv4GAE,ASM Aesthetic,West - US - TX (SW)
+ramona.laslau@almalasers.com,AlmaRW3520!,0055d00000CzPz5AAF,Ramona,Laslau,Ramona Laslau,ramona.laslau@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+victor.stackhouse@almalasers.com,AlmaIE6649!,0055d00000CzPzAAAV,Victor,Stackhouse,Victor Stackhouse,victor.stackhouse@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+michael.cronn@almalasers.com,AlmaXZ6481!,0055d00000CzPzFAAV,Michael,Cronn,Michael Cronn,michael.cronn@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jon.szabo@almalasers.com,AlmaEN2886!,0055d00000CzPzPAAV,Jon,Szabo,Jon Szabo,jon.szabo@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+elliot.hardwick@almalasers.com,AlmaLA9101!,0055d00000CzPzZAAV,Elliot,Hardwick,Elliot Hardwick,elliot.hardwick@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+ashley.ramos@almalasers.com,AlmaYX4907!,0055d00000CzQNHAA3,Ashley,Ramos,Ashley Ramos,ashley.ramos@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+brandon.dunham@almalasers.com,AlmaXG2319!,0055d00000CzQNWAA3,Brandon,Dunham,Brandon Dunham,brandon.dunham@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+katie.costantino@almalasers.com,AlmaFP5235!,0055d00000CzTgvAAF,Katie,Costantino,Katie Costantino,katie.costantino@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wli3CAA,0MI5d000000sYwHGAU,Sales Coordinator,North America
+brian.fletcher@almalasers.com,AlmaJV4457!,0055d00000CzaX2AAJ,Brian,Fletcher,Brian Fletcher,brian.fletcher@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XboRCAS,0MI5d000000sYvxGAE,TM,East - US - GA AL
+adam.baldick@almalasers.com,AlmaWO6259!,0055d00000CzafaAAB,Adam,Baldick,Adam Baldick,adam.baldick@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbVZCA0,0MI1Y000000fxb8WAA,ASM,AM MB SK
+dalton.morris@almalasers.com,AlmaVA8455!,0055d00000Czdm5AAB,Dalton,Morris,Dalton Morris,dalton.morris@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TxcCAE,0MI1Y000000fxd4WAA,PS,MI OH
+tim.ferraz@almalasers.com,AlmaBS2608!,0055d00000CziCgAAJ,Tim,Ferraz,Tim Ferraz,tim.ferraz@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jeovani.landin@almalasers.com,AlmaJS6893!,0055d00000CziClAAJ,Jeovani,Alvarez-Landin,Jeovani Alvarez-Landin,jeovani.landin@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+amber.coulbourne@almalasers.com,AlmaSS4921!,0055d00000DDIKXAA5,Amber,Coulbourne,Amber Coulbourne,amber.coulbourne@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008Tu9CAE,0MI1Y000000fxcGWAQ,PS,DC MD VA(E)
+amanda.boyce@almalasers.com,AlmaOX9167!,0055d00000DDW3kAAH,Amanda,Boyce,Amanda Boyce,amanda.boyce@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TuTCAU,0MI1Y000000fxckWAA,PS,Ontario
+jaxon.higginson@almalasers.com,AlmaAD5111!,0055d00000DDaQYAA1,Jaxon,Higginson,Jaxon Higginson,jaxon.higginson@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wldaCAA,0MI5d000000sYvnGAE,TM,West - US - UT WY MT ID (S)
+michael.zozulia@almalasers.com,AlmaPY1836!,0055d00000DDbsTAAT,Michael,Zozulia,Michael Zozulia,michael.zozulia@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlhnCAA,0MI1Y000000fxdJWAQ,ASM,"TX-Austin,San Antonio"
+stephanie.el-bahar@almalasers.com,AlmaQK7936!,0055d00000DDdFdAAL,Stephanie,El-Bahar,Stephanie El-Bahar,stephanie.el-bahar@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TueCAE,0MI1Y000000fxcBWAQ,PS,QC NB NS PE NL
+krista.detura@almalasers.com,AlmaUS9418!,0055d00000DDfcKAAT,Krista,DeTura,Krista DeTura,krista.detura@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TusCAE,0MI1Y000000fxcaWAA,ACE-PS,NY-Upstate
+carly.wray@almalasers.com,AlmaXP5890!,0055d00000DDneEAAT,Carly,Wray,Carly Wray,carly.wray@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TvCCAU,0MI1Y000000fxcGWAQ,TM,DC MD VA(E)
+natalie.brown@almalasers.com,AlmaMB8552!,0055d00000DDrT5AAL,Natalie,Brown,Natalie Brown,natalie.brown@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+asia.cordell@almalasers.com,AlmaAR1636!,0055d00000DDzo1AAD,Asia,Cordell,Asia Cordell,asia.cordell@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+danielle.koontz@almalasers.com,AlmaDD1250!,0055d00000DDzo6AAD,Danielle,Koontz,Danielle Koontz,danielle.koontz@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+amanda.martyniuk@almalasers.com,AlmaAY6713!,0055d00000DDzoGAAT,Amanda,Martyniuk,Amanda Martyniuk,amanda.martyniuk@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+tony.deszcz@almalasers.com,AlmaSN7053!,0055d00000DE2oTAAT,Tony,Deszcz,Tony Deszcz,tony.deszcz@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TwKCAU,0MI1Y000000fxdEWAQ,ASM,"LA, Houston TX Area"
+ben.steffen@almalasers.com,AlmaBK1336!,0055d00000DE6HiAAL,Ben,Steffen,Ben Steffen,ben.steffen@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlj0CAA,0MI5d000000sYuLGAU,Inside Sales,East - US - OH MI
+taylor.basil@almalasers.com,AlmaPH9217!,0055d00000DE6HsAAL,Taylor,Basil,Taylor Basil,taylor.basil@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TwPCAU,0MI1Y000000fxcQWAQ,PS,NY-Manhattan
+travis.dodge@almalasers.com,AlmaJP1328!,0055d00000DEFx9AAH,Travis,Dodge,Travis Dodge,travis.dodge@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+taryn.shockley@almalasers.com,AlmaQV7861!,0055d00000DEIbfAAH,Taryn,Shockley,Taryn Shockley,taryn.shockley@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+david.krueger@almalasers.com,AlmaPA3003!,0055d00000DENQDAA5,David,Krueger,David Krueger,david.krueger@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008Tx3CAE,0MI1Y000000fxcpWAA,ABD,IL(S) KS MO
+matthew.malone@almalasers.com,AlmaWT3564!,0055d00000DENQXAA5,Matthew,Malone,Matthew Malone,matthew.malone@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008Tx8CAE,0MI1Y000000fxczWAA,ABD,AR MS TN
+andreas.suri@almalasers.com,AlmaCW3597!,0055d00000DEO0BAAX,Andreas,Suri,Andreas Suri,andreas.suri@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008TxICAU,0MI1Y000000fxc1WAA,ASM,AL GA
+jessica.waltmire@almalasers.com,AlmaAF3618!,0055d00000DEaAIAA1,Jessica,Waltmire,Jessica Waltmire,jessica.waltmire@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+ashley.winter@almalasers.com,AlmaUG3022!,0055d00000DEaAmAAL,Ashley,Winter,Ashley Winter,ashley.winter@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+kristen.carbone@almalasers.com,AlmaOR9050!,0055d00000DEnv2AAD,Kristen,Carbone,Kristen Carbone,kristen.carbone@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008U0JCAU,0MI1Y000000fxc1WAA,PS,AL GA
+taylor.blevins@almalasers.com,AlmaRT3522!,0055d00000DEnvlAAD,Taylor,Blevins,Taylor Blevins,taylor.blevins@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008U0OCAU,0MI1Y000000fxbrWAA,PS,South Florida
+jessica.taylor@almalasers.com,AlmaPI2483!,0055d00000DEnxNAAT,Jessica,Taylor,Jessica Taylor,jessica.taylor@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d0000008U0dCAE,0MI1Y000000fxcuWAA,PS,KY WV VA(W)
+aanu.ogedengbe@almalasers.com,AlmaXF5064!,0055d00000DEnzdAAD,Aanu,Ogedengbe,Aanu Ogedengbe,aanu.ogedengbe@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+john.lynch@almalasers.com,AlmaOF7549!,0055d00000Dqr2MAAR,John,Lynch,John Lynch,john.lynch@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+laura.roads@almalasers.com,AlmaMM7153!,0055d00000Dqr2bAAB,Laura,Roads,Laura Roads,laura.roads@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+laura.grosvenor@almalasers.com,AlmaEN1779!,0055d00000DqslIAAR,Laura,Grosvenor,Laura Grosvenor,laura.grosvenor@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+mayaevenhaim@gmail.com,AlmaAB9207!,0055d00000DqvMVAAZ,Maya,Test,Maya Test,mayaevenhaim@gmail.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+tim.grzeczka@almalasers.com,AlmaTC1413!,0055d00000DqwJrAAJ,Tim,Grzeczka,Tim Grzeczka,tim.grzeczka@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jeff.morris@almalasers.com,AlmaYB7211!,0055d00000DqwYSAAZ,Jeff,Morris,Jeff Morris,jeff.morris@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlbJCAQ,0MI1Y000000fxd4WAA,ASM,MI OH
+brittany.scully@almalasers.com,AlmaHM5265!,0055d00000DqxiJAAR,Brittany,Scully,Brittany Scully,brittany.scully@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlfNCAQ,0MI5d000000sYuQGAU,TM,East - US - TN AR MS
+brian.mcmahon@almalasers.com,AlmaUH6572!,0055d00000DqzavAAB,Brian,McMahon,Brian McMahon,brian.mcmahon@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jordan.webb@almalasers.com,AlmaTV5198!,0055d00000DrBfEAAV,Jordan,Webb,Jordan Webb,jordan.webb@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlf6CAA,0MI1Y000000fxcpWAA,ASM,IL(S) KS MO
+kevin.fillmore@almalasers.com,AlmaIP2267!,0055d00000DrBqCAAV,Kevin,Fillmore,Kevin Fillmore,kevin.fillmore@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlgMCAQ,0MI5d000000sYviGAE,ASM Surgical,West - US - AZ NM LV TX (E)
+vincent.larocca@almalasers.com,AlmaGN2526!,0055d00000DrBqvAAF,Vincent,LaRocca,Vincent LaRocca,vincent.larocca@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlgQCAQ,0MI5d000000sYvdGAE,ASM Aesthetic,West - US - WA AK OR ID (N)
+jacob.throneberry@almalasers.com,AlmaOM9332!,0055d00000DrBrAAAV,Jacob,Throneberry,Jacob Throneberry,jacob.throneberry@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlgqCAA,0MI5d000000sYvTGAU,TM,West - US - LA
+beatrice.fabian@almalasers.com,AlmaTK6200!,0055d00000DrRaZAAV,Beatrice,Fabian,Beatrice Fabian,beatrice.fabian@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlkICAQ,0MI5d000000sYuBGAU,ACE-PS,East - US - IL (North) IN
+mia.byers@almalasers.com,AlmaYZ9987!,0055d00000DrRx9AAF,Mia,Byers,Mia Byers,mia.byers@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlkSCAQ,0MI5d000000sYu6GAE,ACE-PS,East - US - NC SC
+maxime.trepanier@almalasers.com,AlmaUA5300!,0055d00000DrUMaAAN,Maxime,Trepanier,Maxime Trepanier,maxime.trepanier@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlkXCAQ,0MI5d000000sYuVGAU,TM,East - CA - Quebec CA (East)
+domdigitalmedia@gmail.com.alma,AlmaKH5652!,0055d00000DrXmHAAV,Dominique,Shepherd,Dominique Shepherd,domdigitalmedia@gmail.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+dorony@almalasers.co.il.alma,AlmaET6625!,0055d00000DrfHcAAJ,Doron,Y,Doron Y,dorony@almalasers.co.il,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+holly.duron@almalasers.com,AlmaTE7066!,0055d00000DriZTAAZ,Holly,Duron,Holly Duron,holly.duron@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000boT1CAI,0MI5d000000sYwHGAU,Sales Coordinator,North America
+hannah.cohen@almalasers.com,AlmaYH4236!,0055d00000Drib0AAB,Hannah Clare,Cohen,Hannah Clare Cohen,hannah.cohen@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wll6CAA,0MI5d000000sYuaGAE,Inside Sales,West - CA - Ontario
+joe.medina@almalasers.com,AlmaHK6038!,0055d00000E1IeNAAV,Joe,Medina,Joe Medina,joe.medina@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000wlh9CAA,0MI5d000000sYvEGAU,TM,West - US - TX (N) OK
+drew.abernethy@almalasers.com,AlmaEL6725!,0055d00000E1ToiAAF,Drew,Abernethy,Drew Abernethy,drew.abernethy@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000GqHqCAK,0MI1Y000000fxbmWAA,ASM,North Florida
+sharynalmalasers@gmail.com,AlmaFU1899!,0055d00000EIku8AAD,Sharyn,Qureshi Buyer Account,Sharyn Qureshi Buyer Account,sharynalmalasers@gmail.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+lisaunguyen@gmail.com,AlmaOI7986!,0055d00000EIkv6AAD,Lisa,Nguyen,Lisa Nguyen,lisaunguyen@gmail.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+themonsterghosts@gmail.com,AlmaZA4893!,0055d00000EIkvGAAT,Bunny,Parker,Bunny Parker,themonsterghosts@gmail.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jorden.backman@almalasers.com,AlmaIW5256!,0055d00000EIkyyAAD,Jorden,Backman,Jorden Backman,jorden.backman@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbkyCAC,0MI5d000000sYvnGAE,ASM Surgical,West - US - UT WY MT ID (S)
+benson.rhees@almalasers.com,AlmaNU8832!,0055d00000EIl2lAAD,Benson,Rhees,Benson Rhees,benson.rhees@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+brad.raybourn@almalasers.com,AlmaBP6547!,0055d00000EIlXFAA1,Brad,Raybourn,Brad Raybourn,brad.raybourn@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Xbl3CAC,0MI5d000000sYthGAE,ASM Surgical,East - US - DC Eastern VA MD
+fham@almalasers.com,AlmaNK6890!,0055d00000EIldSAAT,Francesca,Ham,Francesca Ham,fham@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+oleg.lavrov@almalasers.com,AlmaLH7773!,0055d00000EIsAXAA1,Oleg,Lavrov,Oleg Lavrov,oleg.lavrov@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+felicia.reyna@almalasers.com,AlmaJK1014!,0055d00000EJ1IzAAL,Felicia,Reyna,Felicia Reyna,felicia.reyna@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+caitlyn.warrington@almalasers.com,AlmaVC4134!,0055d00000EJBcGAAX,Caitlyn,Warrington,Caitlyn Warrington,caitlyn.warrington@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XblXCAS,0MI5d000000sYtwGAE,ASM Surgical,East - US - North Florida
+chris.otto@almalasers.com,AlmaMX7580!,0055d00000EJFfsAAH,Chris,Otto,Chris Otto,chris.otto@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+scott.rosenblatt@almalasers.com,AlmaLQ9690!,0055d00000EJFmKAAX,Scott,Rosenblatt,Scott Rosenblatt,scott.rosenblatt@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Xbm6CAC,0MI5d000000sYtcGAE,ABD,East - US - NY Upstate Western CT
+cameron.schlenker@almalasers.com,AlmaRU4848!,0055d00000EJFmPAAX,Cameron,Schlenker,Cameron Schlenker,cameron.schlenker@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbmBCAS,0MI5d000000sYtcGAE,ASM Surgical,East - US - NY Upstate Western CT
+jack.cardew@almalasers.com,AlmaXO3167!,0055d00000EJFmUAAX,Jack,Cardew,Jack Cardew,jack.cardew@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XbnnCAC,0MI5d000000sYrbGAE,ASM Surgical,East - US - NY Staten Island
+sam.lindgren@almalasers.com,AlmaYJ1722!,0055d00000EJIYaAAP,Sam,Lindgren,Sam Lindgren,sam.lindgren@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000Xbo7CAC,0MI5d000000sYvdGAE,TM,West - US - WA AK OR ID (N)
+hunter.miller@almalasers.com,AlmaHB9661!,0055d00000EJImSAAX,Hunter,Miller,Hunter Miller,hunter.miller@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XboMCAS,0MI5d000000sYvdGAE,ASM Surgical,West - US - WA AK OR ID (N)
+luciano.lombardi@almalasers.com,AlmaSL1797!,0055d00000EJImXAAX,Luciano,Lombardi,Luciano Lombardi,luciano.lombardi@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XboCCAS,0MI5d000000sYuaGAE,ASM Aesthetic,West - CA - Ontario
+reilly.hawkins@almalasers.com,AlmaYS8966!,0055d00000EJImcAAH,Reilly,Hawkins,Reilly Hawkins,reilly.hawkins@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XboHCAS,0MI5d000000sYvdGAE,ABD,West - US - WA AK OR ID (N)
+ashley.bailey@almalasers.com,AlmaRL5496!,0055d00000EJQZbAAP,Ashley,Bailey,Ashley Bailey,ashley.bailey@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jrivera-montejo@almalasers.com,AlmaRH7211!,0055d00000EJREAAA5,Jessica,Rivera-Montejo,Jessica Rivera-Montejo,jrivera-montejo@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+alyssa.castillo@almalasers.com,AlmaGZ9261!,0055d00000EJREFAA5,Alyssa,Castillo,Alyssa Castillo,alyssa.castillo@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+michelle.rios@almalasers.com,AlmaKP2108!,0055d00000EJREKAA5,Michelle,Rios-Gieske,Michelle Rios-Gieske,michelle.rios@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+ty.snow@almalasers.com,AlmaIE2201!,0055d00000EJRg9AAH,Ty,Snow,Ty Snow,ty.snow@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000XboWCAS,0MI5d000000sYvYGAU,ASM Aesthetic,West - US - CO NE ND SD
+alex.baldwin@almalasers.com,AlmaIW5868!,0055d00000EJSDIAA5,Alex,Baldwin,Alex Baldwin,alex.baldwin@almalasers.com,"Alma Lasers , Inc.",TRUE,0R0Ua000000021pKAA,0MI5d000000sYuQGAU,ASM Surgical,East - US - TN AR MS
+grant.matzel@almalasers.com,AlmaEV9102!,0055d00000EJSDSAA5,Grant,Matzel,Grant Matzel,grant.matzel@almalasers.com,"Alma Lasers , Inc.",TRUE,0R0Ua00000001k5KAA,0MI5d000000sYuGGAU,ASM Aesthetic,East - US - KY WV VA (West)
+jamal.brooks@almalasers.com,AlmaSG7288!,0055d00000EMV4AAAX,Jamal,Brooks,Jamal Brooks,jamal.brooks@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g30ECAQ,0MI5d000000sYrbGAE,ASM Aesthetic,East - US - NY Staten Island
+andrew.zucker@almalasers.com,AlmaUJ1293!,0055d00000EMV4FAAX,Andrew,Zucker,Andrew Zucker,andrew.zucker@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g309CAA,0MI5d000000sYvTGAU,ASM Aesthetic,West - US - LA
+matt.burelle@almalasers.com,AlmaVI3002!,0055d00000EMV4yAAH,Matt,Burelle,Matt Burelle,matt.burelle@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g304CAA,0MI5d000000sYuVGAU,ASM Aesthetic,East - CA - Quebec CA (East)
+andrew.ferkol@almalasers.com,AlmaZL8903!,0055d00000EMV5DAAX,Andrew,Ferkol,Andrew Ferkol,andrew.ferkol@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g30JCAQ,0MI5d000000sYu6GAE,TM,East - US - NC SC
+ashley.kim@almalasers.com,AlmaSP3302!,0055d00000EMce5AAD,Ashley,Kim,Ashley Kim,ashley.kim@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+mary.callahan@almalasers.com,AlmaXZ8594!,0055d00000EMmwJAAT,Mary,Callahan,Mary Callahan,mary.callahan@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g33ICAQ,0MI5d000000sYvEGAU,ASM Surgical,West - US - TX (N) OK
+hatem.zubaidi@almalasers.com,AlmaRJ9965!,0055d00000EMrInAAL,Hatem,Zubaidi,Hatem Zubaidi,hatem.zubaidi@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g33XCAQ,0MI5d000000sYukGAE,ASM Surgical,West - CA - British Columbia
+emmanuel.nunez@almalasers.com,AlmaFK9661!,0055d00000EN53cAAD,Emmanuel,Nunez,Emmanuel Nunez,emmanuel.nunez@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g33cCAA,0MI5d000000sYv4GAE,TM,West - US - TX (SW)
+jessica.lerner@almalasers.com,AlmaOD5875!,0055d00000ENBZZAA5,Jessica,Lerner,Jessica Lerner,jessica.lerner@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g33mCAA,0MI5d000000sYviGAE,ACE-PS,West - US - AZ NM LV TX (E)
+michael.sylvester@almalasers.com,AlmaMR5554!,0055d00000ENGHGAA5,Michael,Sylvester,Michael Sylvester,michael.sylvester@almalasers.com,"Alma Lasers , Inc.",TRUE,0R05d000000g34LCAQ,0MI5d000000sYrgGAE,TM,East - US - NY Long Island Brooklyn Queens
+keith.buro@almalasers.com,AlmaOX3658!,005Ua000002TAhBIAW,Keith,Buro,Keith Buro,keith.buro@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+stefani.almalasers@outlook.com.alma,AlmaHD1562!,005Ua000002zaOnIAI,Stefani,Anderson,Stefani Anderson,stefani.almalasers@outlook.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+emiliano.alaniz@almalasers.com,AlmaCG3958!,005Ua000003Fi0fIAC,Emiliano,Alaniz,Emiliano Alaniz,emiliano.alaniz@almalasers.com,"Alma Lasers , Inc.",TRUE,0R0Ua000000035xKAA,0MI5d000000sYv9GAE,ASM Aesthetic,West - US - TX (SE) LA
+suzanna.djukic@almalasers.com,AlmaNG1963!,005Ua000003ifP7IAI,Suzanna,Djukic,Suzanna Djukic,suzanna.djukic@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+patrick.sheehan@almalasers.com,AlmaNO7875!,005Ua000003q9yLIAQ,Patrick,Sheehan,Patrick Sheehan,patrick.sheehan@almalasers.com,"Alma Lasers , Inc.",TRUE,0R0Ua00000003XNKAY,0MI5d000000sYtrGAE,ASM Surgical,East - US - ME NH VT MA RI CT (East)
+alan.greer@almalasers.com,AlmaOF6782!,005i0000002BP9IAAW,Alan,Greer,Alan Greer,alan.greer@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+sara.rizvi@almalasers.com,AlmaSH5083!,005i0000002aLpDAAU,Sara,Rizvi,Sara Rizvi,sara.rizvi@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+jason.carpenter@almalasers.com,AlmaDH1212!,005i0000002aO0UAAU,Jason,Carpenter,Jason Carpenter,jason.carpenter@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+everett.parkins@almalasers.com,AlmaDG8410!,005i0000002aO1hAAE,Everett,Parkins,Everett Parkins,everett.parkins@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyBZSAY,0MI1Y000000fxb3WAA,ASM,British Columbia
+nezaliluis@gmail.com,AlmaGV8373!,005i0000002aO1wAAE,Nezih,Akkor,Nezih Akkor,nezaliluis@gmail.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyDCSAY,0MI1Y000000fxckWAA,ASM,Ontario
+david.heddon@almalasers.com,AlmaRT5242!,005i0000002aPeBAAU,David,Heddon,David Heddon,david.heddon@almalasers.com,"Alma Lasers , Inc.",TRUE,0R0Ua00000001iTKAQ,0MI5d000000sYtwGAE,ABD,East - US - North Florida
+avi.farbstein@almalasers.com,AlmaAB3368!,005i0000002aPlTAAU,Avi,Farbstein,Avi Farbstein,avi.farbstein@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+francesca.ham@almalasers.com,AlmaOQ2115!,005i0000002aPmbAAE,Marketing,Admin,Marketing Admin,francesca.ham@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate
+justin.levy@almalasers.com,AlmaCC5703!,005i0000002bLQ6AAM,Justin,Levy,Justin Levy,justin.levy@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyC3SAI,0MI1Y000000fxbXWAQ,ASM,SoCal
+jason.mcclain@almalasers.com,AlmaRI5514!,005i0000002cGtVAAU,Jason,McClain,Jason McClain,jason.mcclain@almalasers.com,"Alma Lasers , Inc.",TRUE,0R01Y000000fyFqSAI,0MI1Y000000fxczWAA,ASM,AR MS TN
+leslie.blanche@almalasers.com,AlmaFI2714!,005i0000006qjPKAAY,Leslie,Blanche,Leslie Blanche,leslie.blanche@almalasers.com,"Alma Lasers , Inc.",TRUE,Corporate,Corporate,Corporate,Corporate

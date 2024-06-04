@@ -1,0 +1,31 @@
+,providerOutcomeId,providerId,providerOfferId,label,oddsAmerican,oddsDecimal,oddsDecimalDisplay,oddsFractional,line,participant,participantType,main,sortOrder,tags,participants
+0,0HC75111057P150_3,2,2_75111057,VGK Golden Knights,-192,1.52083334,1.52,25/48,1.5,VGK Golden Knights,Team,True,1499,"['MainPointLine', 'SGP']","[{'id': '35792', 'name': 'VGK Golden Knights', 'type': 'Team'}]"
+1,0HC75111057N150_1,2,2_75111057,DAL Stars,+160,2.6,2.60,8/5,-1.5,DAL Stars,Team,True,1501,"['MainPointLine', 'SGP']","[{'id': '35724', 'name': 'DAL Stars', 'type': 'Team'}]"
+2,0OU75111057O550_1,2,3_75111057,Over,-125,1.8,1.80,4/5,5.5,,Unknown,True,5500,"['MainPointLine', 'SGP']",
+3,0OU75111057U550_3,2,3_75111057,Under,+105,2.05,2.05,21/20,5.5,,Unknown,True,5502,"['MainPointLine', 'SGP']",
+4,0ML75111057_3,2,1_75111057,VGK Golden Knights,+130,2.3,2.30,13/10,,VGK Golden Knights,Team,True,1188136819,['SGP'],"[{'id': '35792', 'name': 'VGK Golden Knights', 'type': 'Team'}]"
+5,0ML75111057_1,2,1_75111057,DAL Stars,-155,1.6451613,1.64,20/31,,DAL Stars,Team,True,1188138817,['SGP'],"[{'id': '35724', 'name': 'DAL Stars', 'type': 'Team'}]"
+6,0HC75100161P150_3,2,2_75100161,LA Kings,-148,1.67567568,1.67,25/37,1.5,LA Kings,Team,True,1499,"['MainPointLine', 'SGP']","[{'id': '35736', 'name': 'LA Kings', 'type': 'Team'}]"
+7,0HC75100161N150_1,2,2_75100161,EDM Oilers,+124,2.24,2.24,31/25,-1.5,EDM Oilers,Team,True,1501,"['MainPointLine', 'SGP']","[{'id': '35730', 'name': 'EDM Oilers', 'type': 'Team'}]"
+8,0OU75100161O650_1,2,3_75100161,Over,+110,2.1,2.10,11/10,6.5,,Unknown,True,6500,"['MainPointLine', 'SGP']",
+9,0OU75100161U650_3,2,3_75100161,Under,-130,1.76923077,1.76,10/13,6.5,,Unknown,True,6502,"['MainPointLine', 'SGP']",
+10,0ML75100161_3,2,1_75100161,LA Kings,+164,2.64,2.64,41/25,,LA Kings,Team,True,1187899078,['SGP'],"[{'id': '35736', 'name': 'LA Kings', 'type': 'Team'}]"
+11,0ML75100161_1,2,1_75100161,EDM Oilers,-198,1.50505051,1.50,50/99,,EDM Oilers,Team,True,1187901076,['SGP'],"[{'id': '35730', 'name': 'EDM Oilers', 'type': 'Team'}]"
+12,0HC75123751P150_3,2,2_75123751,BOS Bruins,-278,1.35971224,1.35,50/139,1.5,BOS Bruins,Team,True,1499,"['MainPointLine', 'SGP']","[{'id': '35701', 'name': 'BOS Bruins', 'type': 'Team'}]"
+13,0HC75123751N150_1,2,2_75123751,TOR Maple Leafs,+225,3.25,3.25,9/4,-1.5,TOR Maple Leafs,Team,True,1501,"['MainPointLine', 'SGP']","[{'id': '35786', 'name': 'TOR Maple Leafs', 'type': 'Team'}]"
+14,0OU75123751O550_1,2,3_75123751,Over,-118,1.84745763,1.84,50/59,5.5,,Unknown,True,5500,"['MainPointLine', 'SGP']",
+15,0OU75123751U550_3,2,3_75123751,Under,-102,1.98039216,1.98,50/51,5.5,,Unknown,True,5502,"['MainPointLine', 'SGP']",
+16,0ML75123751_3,2,1_75123751,BOS Bruins,-105,1.95238096,1.95,20/21,,BOS Bruins,Team,True,1188388462,['SGP'],"[{'id': '35701', 'name': 'BOS Bruins', 'type': 'Team'}]"
+17,0ML75123751_1,2,1_75123751,TOR Maple Leafs,-115,1.86956522,1.86,20/23,,TOR Maple Leafs,Team,True,1188390460,['SGP'],"[{'id': '35786', 'name': 'TOR Maple Leafs', 'type': 'Team'}]"
+18,0HC75123757P150_3,2,2_75123757,VAN Canucks,-230,1.43478261,1.43,10/23,1.5,VAN Canucks,Team,True,1499,"['MainPointLine', 'SGP']","[{'id': '35789', 'name': 'VAN Canucks', 'type': 'Team'}]"
+19,0HC75123757N150_1,2,2_75123757,NSH Predators,+190,2.9,2.90,19/10,-1.5,NSH Predators,Team,True,1501,"['MainPointLine', 'SGP']","[{'id': '35745', 'name': 'NSH Predators', 'type': 'Team'}]"
+20,0OU75123757O550_1,2,3_75123757,Over,-105,1.95238096,1.95,20/21,5.5,,Unknown,True,5500,"['MainPointLine', 'SGP']",
+21,0OU75123757U550_3,2,3_75123757,Under,-115,1.86956522,1.86,20/23,5.5,,Unknown,True,5502,"['MainPointLine', 'SGP']",
+22,0ML75123757_3,2,1_75123757,VAN Canucks,+110,2.1,2.10,11/10,,VAN Canucks,Team,True,1188388504,['SGP'],"[{'id': '35789', 'name': 'VAN Canucks', 'type': 'Team'}]"
+23,0ML75123757_1,2,1_75123757,NSH Predators,-130,1.76923077,1.76,10/13,,NSH Predators,Team,True,1188390502,['SGP'],"[{'id': '35745', 'name': 'NSH Predators', 'type': 'Team'}]"
+24,0HC75129695P150_3,2,2_75129695,CAR Hurricanes,-270,1.37037038,1.37,10/27,1.5,CAR Hurricanes,Team,True,1499,"['MainPointLine', 'SGP']","[{'id': '35712', 'name': 'CAR Hurricanes', 'type': 'Team'}]"
+25,0HC75129695N150_1,2,2_75129695,NY Rangers,+220,3.2,3.20,11/5,-1.5,NY Rangers,Team,True,1501,"['MainPointLine', 'SGP']","[{'id': '35754', 'name': 'NY Rangers', 'type': 'Team'}]"
+26,0OU75129695O550_1,2,3_75129695,Over,-110,1.90909091,1.90,10/11,5.5,,Unknown,True,5500,"['MainPointLine', 'SGP']",
+27,0OU75129695U550_3,2,3_75129695,Under,-110,1.90909091,1.90,10/11,5.5,,Unknown,True,5502,"['MainPointLine', 'SGP']",
+28,0ML75129695_3,2,1_75129695,CAR Hurricanes,-105,1.95238096,1.95,20/21,,CAR Hurricanes,Team,True,1188517101,['SGP'],"[{'id': '35712', 'name': 'CAR Hurricanes', 'type': 'Team'}]"
+29,0ML75129695_1,2,1_75129695,NY Rangers,-115,1.86956522,1.86,20/23,,NY Rangers,Team,True,1188519099,['SGP'],"[{'id': '35754', 'name': 'NY Rangers', 'type': 'Team'}]"

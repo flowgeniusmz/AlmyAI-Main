@@ -50,8 +50,8 @@ class User():
         lengthdata = len(data[-1])
         if lengthdata > 0:
             self.authenticated = True
-            #st.session_state.username = self.username
-            #st.session_state.credential = self.credential
+            st.session_state.username = self.username
+            st.session_state.credential = self.credential
             st.session_state.authenticated = True
             ps.switch_to_homepage()
         else:
