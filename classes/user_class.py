@@ -17,8 +17,8 @@ class User():
         with user_auth_container:
             user_auth_cols = st.columns([1,20,1])
             with user_auth_cols[1]:
-                self.username = st.text_input(label="Username", key="username")
-                self.credential = st.text_input(label="Password", key="credential", type="password")
+                self.username = st.text_input(label="Username", key="_username")
+                self.credential = st.text_input(label="Password", key="_credential", type="password")
                 login = st.button(label="Login", key="login", type="primary")
                 if login:
                     if self.username is not None and self.credential is not None:
