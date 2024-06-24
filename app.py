@@ -16,7 +16,11 @@ ps.display_background_image()
 ps.set_title_manual(varTitle="AlmyAI", varSubtitle="User Login", varDiv=True)
 
 # 0.5 Set initial session state
-ss.initialize_sessionstate()
+if "initialized" not in st.session_state:
+    ss.initialize_sessionstate()
+elif not st.session_state.intitialized:
+    ss.initialize_sessionstate()
+
 
 ##### 1. USER LOGIN #####
 # 1.1 User login container
