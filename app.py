@@ -18,8 +18,7 @@ ps.set_title_manual(varTitle="AlmyAI", varSubtitle="User Login", varDiv=True)
 # 0.5 Set initial session state
 if "initialized" not in st.session_state:
     ss.initialize_sessionstate()
-elif not st.session_state.intitialized:
-    ss.initialize_sessionstate()
+
 
 
 ##### 1. USER LOGIN #####
